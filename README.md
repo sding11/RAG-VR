@@ -1,4 +1,4 @@
-This repository code implements the functionality of the RAG-VR system.
+This repository code implements the functionality of the RAG-VR system. **The full code will be published after the paper is accepted.**
 # Outline
 ![](https://raw.githubusercontent.com/sding11/RAG-VR/refs/heads/main/UI.png)
 ## Testing Setup
