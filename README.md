@@ -20,9 +20,9 @@ e. Create four new GameObjects in the Hierarchy Window and bind the imported C# 
 
 f. In the Hierarchy Window, right-click, select "UI", and create 2 "Text-TextMeshPro", and 2 "Button-TextMeshPro", named "InputText", "OutText", "StartButton" and "StopButton" respectively. Adjust their position for proper observation. And add prompt text for them to display.
 
-g. Select your connected target device (Oculus Quest 3) and click 'Build and Run'.
+g. Select your connected target device (Meta Quest 3) and click 'Build and Run'.
 
-h. The output APK package will be saved to the file path you specify, while the app will be installed on the Oculus Quest 3 device connected to your computer.
+h. The output APK package will be saved to the file path you specify, while the app will be installed on the Meta Quest 3 device connected to your computer.
 
-i. Disconnect the Oculus Quest 3 from the computer. After setting up a new Guardian Boundary, the virtual reality game with RAG-VR will be automatically loaded.
+i. Disconnect the Meta Quest 3 from the computer. After setting up a new Guardian Boundary, the virtual reality game with RAG-VR will be automatically loaded.
 
