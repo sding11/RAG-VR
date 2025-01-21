@@ -24,5 +24,9 @@ g. Select your connected target device (Meta Quest 3) and click 'Build and Run'.
 
 h. The output APK package will be saved to the file path you specify, while the app will be installed on the Meta Quest 3 device connected to your computer.
 
-i. Disconnect the Meta Quest 3 from the computer. After setting up a new Guardian Boundary, the virtual reality game with RAG-VR will be automatically loaded.
+i. Load the code in the "server" folder on the local server. Select the system you want to run in server.py. The "rag_vr_process_question" function calls the RAG-VR system, "in_context_process_question" calls the in-context LLM system, and "vanilla_rag_process_question" calls the Vanilla-RAG system.
+
+j. Disconnect the Meta Quest 3 from the computer. After setting up a new Guardian Boundary, the virtual reality game with RAG-VR will be automatically loaded.
+
+k. Click the button on the UI interface according to the prompt to start and end the query.
 
