@@ -4,10 +4,11 @@ This repository code implements the functionality of the RAG-VR system.
 
 ## Testing Setup
 * VR device: Meta Quest 3
-* Edge server: Dell Precision 3591 laptop, Intel® Core™ Ultra 7 165H 1.40 GHz CPU,  NVIDIA RTX 2000 Ada GPU
+* Edge server: NVIDIA RTX 2000 Ada GPU
 * Unity editor version: 2022.3.52f1
 
 ## Implementation of RAG-VR
+### Unity Setup
 a. In Unity Hub, create a new 3D Unity project. 
 
 b. Navigate to Window>Asset Store.  Search for the virtual reality game (e.g., the 'Viking Village URP' game.) in the Asset Store, and select 'Buy Now' and 'Import'.
@@ -23,6 +24,8 @@ f. In the Hierarchy Window, right-click, select "UI", and create 2 "Text-TextMes
 g. Select your connected target device (Meta Quest 3) and click 'Build and Run'.
 
 h. The output APK package will be saved to the file path you specify, while the app will be installed on the Meta Quest 3 device connected to your computer.
+
+### Edge Server Setup
 
 i. Load the code in the "server" folder on the local server. Select the system you want to run in server.py. The "rag_vr_process_question" function calls the RAG-VR system, "in_context_process_question" calls the in-context LLM system, and "vanilla_rag_process_question" calls the Vanilla-RAG system.
 
