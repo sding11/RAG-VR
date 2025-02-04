@@ -12,7 +12,7 @@ This repository code implements the functionality of the RAG-VR system.
 * Unity editor version: 2022.3.52f1
 * LLM: llama3.1：8b
 
-## Implementation of Demo
+## Implementation of Real-world Testing
 ### Unity Setup
 a. In Unity Hub, create a new 3D Unity project. 
 
@@ -38,7 +38,7 @@ j. Disconnect the Meta Quest 3 from the computer. After setting up a new Guardia
 
 k. Click the button on the UI interface according to the prompt to start and end the query.
 
-## Implementation of Main Experience
+## Implementation of Dataset-based Evaluation
 ### Training
 a. Download the necessary packages
 !pip install langchain langchain_experimental langchain-groq --use-deprecated=legacy-resolver
