@@ -1,0 +1,961 @@
+Questions,Standard answers,Retrieved Name
+What is the position of tray_1?,"[""{'x': -10.333999633789062, 'y': 1.3404101133346558, 'z': 6.206999778747559}""]",tray_1
+Can you tell me the position of tray_1?,"[""{'x': -10.333999633789062, 'y': 1.3404101133346558, 'z': 6.206999778747559}""]",tray_1
+Where is tray_1 located?,"[""{'x': -10.333999633789062, 'y': 1.3404101133346558, 'z': 6.206999778747559}""]",tray_1
+Please specify the position of tray_1.,"[""{'x': -10.333999633789062, 'y': 1.3404101133346558, 'z': 6.206999778747559}""]",tray_1
+Where can I find the tray_1?,"[""{'x': -10.333999633789062, 'y': 1.3404101133346558, 'z': 6.206999778747559}""]",tray_1
+Is tray_1 interactive?,['Yes'],tray_1
+Can I interact with tray_1?,['Yes'],tray_1
+Does tray_1 have interactivity?,['Yes'],tray_1
+Is it possible to interact with tray_1?,['Yes'],tray_1
+Can users interact with tray_1?,['Yes'],tray_1
+What is the material of tray_1?,['plastic'],tray_1
+Can you specify the material of tray_1?,['plastic'],tray_1
+Which material is tray_1 made of?,['plastic'],tray_1
+Can you tell me what tray_1 is made of?,['plastic'],tray_1
+What kind of material does tray_1 have?,['plastic'],tray_1
+What is the color of tray_1?,['White'],tray_1
+Can you tell me the color of tray_1?,['White'],tray_1
+What color is tray_1?,['White'],tray_1
+What does the color of tray_1 look like?,['White'],tray_1
+Can you specify the color of tray_1?,['White'],tray_1
+What is the distance from the tray_1 to the player?,[17.86],tray_1
+How far is the tray_1 from the player?,[17.86],tray_1
+Can you tell me the distance between the tray_1 and the player?,[17.86],tray_1
+What is the player-to-tray_1 distance?,[17.86],tray_1
+How distant is the tray_1 from the player?,[17.86],tray_1
+What is the direction of the tray_1 to the player?,['Tray_1 is front left of the player.'],tray_1
+Can you tell me the direction of the tray_1 relative to the player?,['Tray_1 is front left of the player.'],tray_1
+What direction is the tray_1 from the player?,['Tray_1 is front left of the player.'],tray_1
+In which direction is the tray_1 located relative to the player?,['Tray_1 is front left of the player.'],tray_1
+Where is the tray_1 in relation to the player's position?,['Tray_1 is front left of the player.'],tray_1
+What is the position of tray_2?,"[""{'x': -10.354999542236328, 'y': 1.324983835220337, 'z': 6.785999774932861}""]",tray_2
+Can you tell me the position of tray_2?,"[""{'x': -10.354999542236328, 'y': 1.324983835220337, 'z': 6.785999774932861}""]",tray_2
+Where is tray_2 located?,"[""{'x': -10.354999542236328, 'y': 1.324983835220337, 'z': 6.785999774932861}""]",tray_2
+Please specify the position of tray_2.,"[""{'x': -10.354999542236328, 'y': 1.324983835220337, 'z': 6.785999774932861}""]",tray_2
+Where can I find the tray_2?,"[""{'x': -10.354999542236328, 'y': 1.324983835220337, 'z': 6.785999774932861}""]",tray_2
+Is tray_2 interactive?,['Yes'],tray_2
+Can I interact with tray_2?,['Yes'],tray_2
+Does tray_2 have interactivity?,['Yes'],tray_2
+Is it possible to interact with tray_2?,['Yes'],tray_2
+Can users interact with tray_2?,['Yes'],tray_2
+What is the material of tray_2?,['plastic'],tray_2
+Can you specify the material of tray_2?,['plastic'],tray_2
+Which material is tray_2 made of?,['plastic'],tray_2
+Can you tell me what tray_2 is made of?,['plastic'],tray_2
+What kind of material does tray_2 have?,['plastic'],tray_2
+What is the color of tray_2?,['White'],tray_2
+Can you tell me the color of tray_2?,['White'],tray_2
+What color is tray_2?,['White'],tray_2
+What does the color of tray_2 look like?,['White'],tray_2
+Can you specify the color of tray_2?,['White'],tray_2
+What is the distance from the tray_2 to the player?,[18.35],tray_2
+How far is the tray_2 from the player?,[18.35],tray_2
+Can you tell me the distance between the tray_2 and the player?,[18.35],tray_2
+What is the player-to-tray_2 distance?,[18.35],tray_2
+How distant is the tray_2 from the player?,[18.35],tray_2
+What is the direction of the tray_2 to the player?,['Tray_2 is front left of the player.'],tray_2
+Can you tell me the direction of the tray_2 relative to the player?,['Tray_2 is front left of the player.'],tray_2
+What direction is the tray_2 from the player?,['Tray_2 is front left of the player.'],tray_2
+In which direction is the tray_2 located relative to the player?,['Tray_2 is front left of the player.'],tray_2
+Where is the tray_2 in relation to the player's position?,['Tray_2 is front left of the player.'],tray_2
+What is the position of tray_3?,"[""{'x': -9.277999877929688, 'y': 1.3266464471817017, 'z': 6.189000129699707}""]",tray_3
+Can you tell me the position of tray_3?,"[""{'x': -9.277999877929688, 'y': 1.3266464471817017, 'z': 6.189000129699707}""]",tray_3
+Where is tray_3 located?,"[""{'x': -9.277999877929688, 'y': 1.3266464471817017, 'z': 6.189000129699707}""]",tray_3
+Please specify the position of tray_3.,"[""{'x': -9.277999877929688, 'y': 1.3266464471817017, 'z': 6.189000129699707}""]",tray_3
+Where can I find the tray_3?,"[""{'x': -9.277999877929688, 'y': 1.3266464471817017, 'z': 6.189000129699707}""]",tray_3
+Is tray_3 interactive?,['Yes'],tray_3
+Can I interact with tray_3?,['Yes'],tray_3
+Does tray_3 have interactivity?,['Yes'],tray_3
+Is it possible to interact with tray_3?,['Yes'],tray_3
+Can users interact with tray_3?,['Yes'],tray_3
+What is the material of tray_3?,['plastic'],tray_3
+Can you specify the material of tray_3?,['plastic'],tray_3
+Which material is tray_3 made of?,['plastic'],tray_3
+Can you tell me what tray_3 is made of?,['plastic'],tray_3
+What kind of material does tray_3 have?,['plastic'],tray_3
+What is the color of tray_3?,['White'],tray_3
+Can you tell me the color of tray_3?,['White'],tray_3
+What color is tray_3?,['White'],tray_3
+What does the color of tray_3 look like?,['White'],tray_3
+Can you specify the color of tray_3?,['White'],tray_3
+What is the distance from the tray_3 to the player?,[17.26],tray_3
+How far is the tray_3 from the player?,[17.26],tray_3
+Can you tell me the distance between the tray_3 and the player?,[17.26],tray_3
+What is the player-to-tray_3 distance?,[17.26],tray_3
+How distant is the tray_3 from the player?,[17.26],tray_3
+What is the direction of the tray_3 to the player?,['Tray_3 is front left of the player.'],tray_3
+Can you tell me the direction of the tray_3 relative to the player?,['Tray_3 is front left of the player.'],tray_3
+What direction is the tray_3 from the player?,['Tray_3 is front left of the player.'],tray_3
+In which direction is the tray_3 located relative to the player?,['Tray_3 is front left of the player.'],tray_3
+Where is the tray_3 in relation to the player's position?,['Tray_3 is front left of the player.'],tray_3
+What is the position of tray_4?,"[""{'x': -9.29800033569336, 'y': 1.3222781419754028, 'z': 6.78000020980835}""]",tray_4
+Can you tell me the position of tray_4?,"[""{'x': -9.29800033569336, 'y': 1.3222781419754028, 'z': 6.78000020980835}""]",tray_4
+Where is tray_4 located?,"[""{'x': -9.29800033569336, 'y': 1.3222781419754028, 'z': 6.78000020980835}""]",tray_4
+Please specify the position of tray_4.,"[""{'x': -9.29800033569336, 'y': 1.3222781419754028, 'z': 6.78000020980835}""]",tray_4
+Where can I find the tray_4?,"[""{'x': -9.29800033569336, 'y': 1.3222781419754028, 'z': 6.78000020980835}""]",tray_4
+Is tray_4 interactive?,['Yes'],tray_4
+Can I interact with tray_4?,['Yes'],tray_4
+Does tray_4 have interactivity?,['Yes'],tray_4
+Is it possible to interact with tray_4?,['Yes'],tray_4
+Can users interact with tray_4?,['Yes'],tray_4
+What is the material of tray_4?,['plastic'],tray_4
+Can you specify the material of tray_4?,['plastic'],tray_4
+Which material is tray_4 made of?,['plastic'],tray_4
+Can you tell me what tray_4 is made of?,['plastic'],tray_4
+What kind of material does tray_4 have?,['plastic'],tray_4
+What is the color of tray_4?,['White'],tray_4
+Can you tell me the color of tray_4?,['White'],tray_4
+What color is tray_4?,['White'],tray_4
+What does the color of tray_4 look like?,['White'],tray_4
+Can you specify the color of tray_4?,['White'],tray_4
+What is the distance from the tray_4 to the player?,[17.77],tray_4
+How far is the tray_4 from the player?,[17.77],tray_4
+Can you tell me the distance between the tray_4 and the player?,[17.77],tray_4
+What is the player-to-tray_4 distance?,[17.77],tray_4
+How distant is the tray_4 from the player?,[17.77],tray_4
+What is the direction of the tray_4 to the player?,['Tray_4 is front left of the player.'],tray_4
+Can you tell me the direction of the tray_4 relative to the player?,['Tray_4 is front left of the player.'],tray_4
+What direction is the tray_4 from the player?,['Tray_4 is front left of the player.'],tray_4
+In which direction is the tray_4 located relative to the player?,['Tray_4 is front left of the player.'],tray_4
+Where is the tray_4 in relation to the player's position?,['Tray_4 is front left of the player.'],tray_4
+What is the position of payment device_1?,"[""{'x': -0.504000186920166, 'y': 1.3657487630844116, 'z': 16.858999252319336}""]",payment device_1
+Can you tell me the position of payment device_1?,"[""{'x': -0.504000186920166, 'y': 1.3657487630844116, 'z': 16.858999252319336}""]",payment device_1
+Where is payment device_1 located?,"[""{'x': -0.504000186920166, 'y': 1.3657487630844116, 'z': 16.858999252319336}""]",payment device_1
+Please specify the position of payment device_1.,"[""{'x': -0.504000186920166, 'y': 1.3657487630844116, 'z': 16.858999252319336}""]",payment device_1
+Where can I find the payment device_1?,"[""{'x': -0.504000186920166, 'y': 1.3657487630844116, 'z': 16.858999252319336}""]",payment device_1
+Is payment device_1 interactive?,['Yes'],payment device_1
+Can I interact with payment device_1?,['Yes'],payment device_1
+Does payment device_1 have interactivity?,['Yes'],payment device_1
+Is it possible to interact with payment device_1?,['Yes'],payment device_1
+Can users interact with payment device_1?,['Yes'],payment device_1
+What is the material of payment device_1?,['multiple materials'],payment device_1
+Can you specify the material of payment device_1?,['multiple materials'],payment device_1
+Which material is payment device_1 made of?,['multiple materials'],payment device_1
+Can you tell me what payment device_1 is made of?,['multiple materials'],payment device_1
+What kind of material does payment device_1 have?,['multiple materials'],payment device_1
+What is the color of payment device_1?,['White'],payment device_1
+Can you tell me the color of payment device_1?,['White'],payment device_1
+What color is payment device_1?,['White'],payment device_1
+What does the color of payment device_1 look like?,['White'],payment device_1
+Can you specify the color of payment device_1?,['White'],payment device_1
+What is the distance from the payment device_1 to the player?,[25.22],payment device_1
+How far is the payment device_1 from the player?,[25.22],payment device_1
+Can you tell me the distance between the payment device_1 and the player?,[25.22],payment device_1
+What is the player-to-payment device_1 distance?,[25.22],payment device_1
+How distant is the payment device_1 from the player?,[25.22],payment device_1
+What is the direction of the payment device_1 to the player?,['Payment device_1 is front left of the player.'],payment device_1
+Can you tell me the direction of the payment device_1 relative to the player?,['Payment device_1 is front left of the player.'],payment device_1
+What direction is the payment device_1 from the player?,['Payment device_1 is front left of the player.'],payment device_1
+In which direction is the payment device_1 located relative to the player?,['Payment device_1 is front left of the player.'],payment device_1
+Where is the payment device_1 in relation to the player's position?,['Payment device_1 is front left of the player.'],payment device_1
+What is the position of payment device_2?,"[""{'x': -2.1190004348754883, 'y': 1.3659993410110474, 'z': 16.860000610351562}""]",payment device_2
+Can you tell me the position of payment device_2?,"[""{'x': -2.1190004348754883, 'y': 1.3659993410110474, 'z': 16.860000610351562}""]",payment device_2
+Where is payment device_2 located?,"[""{'x': -2.1190004348754883, 'y': 1.3659993410110474, 'z': 16.860000610351562}""]",payment device_2
+Please specify the position of payment device_2.,"[""{'x': -2.1190004348754883, 'y': 1.3659993410110474, 'z': 16.860000610351562}""]",payment device_2
+Where can I find the payment device_2?,"[""{'x': -2.1190004348754883, 'y': 1.3659993410110474, 'z': 16.860000610351562}""]",payment device_2
+Is payment device_2 interactive?,['Yes'],payment device_2
+Can I interact with payment device_2?,['Yes'],payment device_2
+Does payment device_2 have interactivity?,['Yes'],payment device_2
+Is it possible to interact with payment device_2?,['Yes'],payment device_2
+Can users interact with payment device_2?,['Yes'],payment device_2
+What is the material of payment device_2?,['multiple materials'],payment device_2
+Can you specify the material of payment device_2?,['multiple materials'],payment device_2
+Which material is payment device_2 made of?,['multiple materials'],payment device_2
+Can you tell me what payment device_2 is made of?,['multiple materials'],payment device_2
+What kind of material does payment device_2 have?,['multiple materials'],payment device_2
+What is the color of payment device_2?,['White'],payment device_2
+Can you tell me the color of payment device_2?,['White'],payment device_2
+What color is payment device_2?,['White'],payment device_2
+What does the color of payment device_2 look like?,['White'],payment device_2
+Can you specify the color of payment device_2?,['White'],payment device_2
+What is the distance from the payment device_2 to the player?,[25.31],payment device_2
+How far is the payment device_2 from the player?,[25.31],payment device_2
+Can you tell me the distance between the payment device_2 and the player?,[25.31],payment device_2
+What is the player-to-payment device_2 distance?,[25.31],payment device_2
+How distant is the payment device_2 from the player?,[25.31],payment device_2
+What is the direction of the payment device_2 to the player?,['Payment device_2 is front left of the player.'],payment device_2
+Can you tell me the direction of the payment device_2 relative to the player?,['Payment device_2 is front left of the player.'],payment device_2
+What direction is the payment device_2 from the player?,['Payment device_2 is front left of the player.'],payment device_2
+In which direction is the payment device_2 located relative to the player?,['Payment device_2 is front left of the player.'],payment device_2
+Where is the payment device_2 in relation to the player's position?,['Payment device_2 is front left of the player.'],payment device_2
+What is the position of register_1?,"[""{'x': -1.6150000095367432, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_1
+Can you tell me the position of register_1?,"[""{'x': -1.6150000095367432, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_1
+Where is register_1 located?,"[""{'x': -1.6150000095367432, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_1
+Please specify the position of register_1.,"[""{'x': -1.6150000095367432, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_1
+Where can I find the register_1?,"[""{'x': -1.6150000095367432, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_1
+Is register_1 interactive?,['Yes'],register_1
+Can I interact with register_1?,['Yes'],register_1
+Does register_1 have interactivity?,['Yes'],register_1
+Is it possible to interact with register_1?,['Yes'],register_1
+Can users interact with register_1?,['Yes'],register_1
+What is the material of register_1?,['multiple materials'],register_1
+Can you specify the material of register_1?,['multiple materials'],register_1
+Which material is register_1 made of?,['multiple materials'],register_1
+Can you tell me what register_1 is made of?,['multiple materials'],register_1
+What kind of material does register_1 have?,['multiple materials'],register_1
+What is the color of register_1?,['White'],register_1
+Can you tell me the color of register_1?,['White'],register_1
+What color is register_1?,['White'],register_1
+What does the color of register_1 look like?,['White'],register_1
+Can you specify the color of register_1?,['White'],register_1
+What is the distance from the register_1 to the player?,[25.73],register_1
+How far is the register_1 from the player?,[25.73],register_1
+Can you tell me the distance between the register_1 and the player?,[25.73],register_1
+What is the player-to-register_1 distance?,[25.73],register_1
+How distant is the register_1 from the player?,[25.73],register_1
+What is the direction of the register_1 to the player?,['Register_1 is front left of the player.'],register_1
+Can you tell me the direction of the register_1 relative to the player?,['Register_1 is front left of the player.'],register_1
+What direction is the register_1 from the player?,['Register_1 is front left of the player.'],register_1
+In which direction is the register_1 located relative to the player?,['Register_1 is front left of the player.'],register_1
+Where is the register_1 in relation to the player's position?,['Register_1 is front left of the player.'],register_1
+What is the position of register_2?,"[""{'x': 0.0, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_2
+Can you tell me the position of register_2?,"[""{'x': 0.0, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_2
+Where is register_2 located?,"[""{'x': 0.0, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_2
+Please specify the position of register_2.,"[""{'x': 0.0, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_2
+Where can I find the register_2?,"[""{'x': 0.0, 'y': 1.3657487630844116, 'z': 17.322999954223633}""]",register_2
+Is register_2 interactive?,['Yes'],register_2
+Can I interact with register_2?,['Yes'],register_2
+Does register_2 have interactivity?,['Yes'],register_2
+Is it possible to interact with register_2?,['Yes'],register_2
+Can users interact with register_2?,['Yes'],register_2
+What is the material of register_2?,['multiple materials'],register_2
+Can you specify the material of register_2?,['multiple materials'],register_2
+Which material is register_2 made of?,['multiple materials'],register_2
+Can you tell me what register_2 is made of?,['multiple materials'],register_2
+What kind of material does register_2 have?,['multiple materials'],register_2
+What is the color of register_2?,['White'],register_2
+Can you tell me the color of register_2?,['White'],register_2
+What color is register_2?,['White'],register_2
+What does the color of register_2 look like?,['White'],register_2
+Can you specify the color of register_2?,['White'],register_2
+What is the distance from the register_2 to the player?,[25.68],register_2
+How far is the register_2 from the player?,[25.68],register_2
+Can you tell me the distance between the register_2 and the player?,[25.68],register_2
+What is the player-to-register_2 distance?,[25.68],register_2
+How distant is the register_2 from the player?,[25.68],register_2
+What is the direction of the register_2 to the player?,['Register_2 is front of the player.'],register_2
+Can you tell me the direction of the register_2 relative to the player?,['Register_2 is front of the player.'],register_2
+What direction is the register_2 from the player?,['Register_2 is front of the player.'],register_2
+In which direction is the register_2 located relative to the player?,['Register_2 is front of the player.'],register_2
+Where is the register_2 in relation to the player's position?,['Register_2 is front of the player.'],register_2
+What is the position of self-checkout kiosk_1?,"[""{'x': -0.1599999964237213, 'y': 0.10000014305114746, 'z': 12.580000877380371}""]",self-checkout kiosk_1
+Can you tell me the position of self-checkout kiosk_1?,"[""{'x': -0.1599999964237213, 'y': 0.10000014305114746, 'z': 12.580000877380371}""]",self-checkout kiosk_1
+Where is self-checkout kiosk_1 located?,"[""{'x': -0.1599999964237213, 'y': 0.10000014305114746, 'z': 12.580000877380371}""]",self-checkout kiosk_1
+Please specify the position of self-checkout kiosk_1.,"[""{'x': -0.1599999964237213, 'y': 0.10000014305114746, 'z': 12.580000877380371}""]",self-checkout kiosk_1
+Where can I find the self-checkout kiosk_1?,"[""{'x': -0.1599999964237213, 'y': 0.10000014305114746, 'z': 12.580000877380371}""]",self-checkout kiosk_1
+Is self-checkout kiosk_1 interactive?,['Yes'],self-checkout kiosk_1
+Can I interact with self-checkout kiosk_1?,['Yes'],self-checkout kiosk_1
+Does self-checkout kiosk_1 have interactivity?,['Yes'],self-checkout kiosk_1
+Is it possible to interact with self-checkout kiosk_1?,['Yes'],self-checkout kiosk_1
+Can users interact with self-checkout kiosk_1?,['Yes'],self-checkout kiosk_1
+What is the material of self-checkout kiosk_1?,['multiple materials'],self-checkout kiosk_1
+Can you specify the material of self-checkout kiosk_1?,['multiple materials'],self-checkout kiosk_1
+Which material is self-checkout kiosk_1 made of?,['multiple materials'],self-checkout kiosk_1
+Can you tell me what self-checkout kiosk_1 is made of?,['multiple materials'],self-checkout kiosk_1
+What kind of material does self-checkout kiosk_1 have?,['multiple materials'],self-checkout kiosk_1
+What is the color of self-checkout kiosk_1?,['White'],self-checkout kiosk_1
+Can you tell me the color of self-checkout kiosk_1?,['White'],self-checkout kiosk_1
+What color is self-checkout kiosk_1?,['White'],self-checkout kiosk_1
+What does the color of self-checkout kiosk_1 look like?,['White'],self-checkout kiosk_1
+Can you specify the color of self-checkout kiosk_1?,['White'],self-checkout kiosk_1
+What is the distance from the self-checkout kiosk_1 to the player?,[21.02],self-checkout kiosk_1
+How far is the self-checkout kiosk_1 from the player?,[21.02],self-checkout kiosk_1
+Can you tell me the distance between the self-checkout kiosk_1 and the player?,[21.02],self-checkout kiosk_1
+What is the player-to-self-checkout kiosk_1 distance?,[21.02],self-checkout kiosk_1
+How distant is the self-checkout kiosk_1 from the player?,[21.02],self-checkout kiosk_1
+What is the direction of the self-checkout kiosk_1 to the player?,['Self-checkout kiosk_1 is front left of the player.'],self-checkout kiosk_1
+Can you tell me the direction of the self-checkout kiosk_1 relative to the player?,['Self-checkout kiosk_1 is front left of the player.'],self-checkout kiosk_1
+What direction is the self-checkout kiosk_1 from the player?,['Self-checkout kiosk_1 is front left of the player.'],self-checkout kiosk_1
+In which direction is the self-checkout kiosk_1 located relative to the player?,['Self-checkout kiosk_1 is front left of the player.'],self-checkout kiosk_1
+Where is the self-checkout kiosk_1 in relation to the player's position?,['Self-checkout kiosk_1 is front left of the player.'],self-checkout kiosk_1
+What is the position of urinal_1?,"[""{'x': -13.850003242492676, 'y': 1.343000054359436, 'z': 3.181999921798706}""]",urinal_1
+Can you tell me the position of urinal_1?,"[""{'x': -13.850003242492676, 'y': 1.343000054359436, 'z': 3.181999921798706}""]",urinal_1
+Where is urinal_1 located?,"[""{'x': -13.850003242492676, 'y': 1.343000054359436, 'z': 3.181999921798706}""]",urinal_1
+Please specify the position of urinal_1.,"[""{'x': -13.850003242492676, 'y': 1.343000054359436, 'z': 3.181999921798706}""]",urinal_1
+Where can I find the urinal_1?,"[""{'x': -13.850003242492676, 'y': 1.343000054359436, 'z': 3.181999921798706}""]",urinal_1
+Is urinal_1 interactive?,['Yes'],urinal_1
+Can I interact with urinal_1?,['Yes'],urinal_1
+Does urinal_1 have interactivity?,['Yes'],urinal_1
+Is it possible to interact with urinal_1?,['Yes'],urinal_1
+Can users interact with urinal_1?,['Yes'],urinal_1
+What is the material of urinal_1?,['porcelain'],urinal_1
+Can you specify the material of urinal_1?,['porcelain'],urinal_1
+Which material is urinal_1 made of?,['porcelain'],urinal_1
+Can you tell me what urinal_1 is made of?,['porcelain'],urinal_1
+What kind of material does urinal_1 have?,['porcelain'],urinal_1
+What is the color of urinal_1?,['White'],urinal_1
+Can you tell me the color of urinal_1?,['White'],urinal_1
+What color is urinal_1?,['White'],urinal_1
+What does the color of urinal_1 look like?,['White'],urinal_1
+Can you specify the color of urinal_1?,['White'],urinal_1
+What is the distance from the urinal_1 to the player?,[18.03],urinal_1
+How far is the urinal_1 from the player?,[18.03],urinal_1
+Can you tell me the distance between the urinal_1 and the player?,[18.03],urinal_1
+What is the player-to-urinal_1 distance?,[18.03],urinal_1
+How distant is the urinal_1 from the player?,[18.03],urinal_1
+What is the direction of the urinal_1 to the player?,['Urinal_1 is front left of the player.'],urinal_1
+Can you tell me the direction of the urinal_1 relative to the player?,['Urinal_1 is front left of the player.'],urinal_1
+What direction is the urinal_1 from the player?,['Urinal_1 is front left of the player.'],urinal_1
+In which direction is the urinal_1 located relative to the player?,['Urinal_1 is front left of the player.'],urinal_1
+Where is the urinal_1 in relation to the player's position?,['Urinal_1 is front left of the player.'],urinal_1
+What is the position of soap dispenser_1?,"[""{'x': -11.350001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_1
+Can you tell me the position of soap dispenser_1?,"[""{'x': -11.350001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_1
+Where is soap dispenser_1 located?,"[""{'x': -11.350001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_1
+Please specify the position of soap dispenser_1.,"[""{'x': -11.350001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_1
+Where can I find the soap dispenser_1?,"[""{'x': -11.350001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_1
+Is soap dispenser_1 interactive?,['Yes'],soap dispenser_1
+Can I interact with soap dispenser_1?,['Yes'],soap dispenser_1
+Does soap dispenser_1 have interactivity?,['Yes'],soap dispenser_1
+Is it possible to interact with soap dispenser_1?,['Yes'],soap dispenser_1
+Can users interact with soap dispenser_1?,['Yes'],soap dispenser_1
+What is the material of soap dispenser_1?,['plastic'],soap dispenser_1
+Can you specify the material of soap dispenser_1?,['plastic'],soap dispenser_1
+Which material is soap dispenser_1 made of?,['plastic'],soap dispenser_1
+Can you tell me what soap dispenser_1 is made of?,['plastic'],soap dispenser_1
+What kind of material does soap dispenser_1 have?,['plastic'],soap dispenser_1
+What is the color of soap dispenser_1?,['White'],soap dispenser_1
+Can you tell me the color of soap dispenser_1?,['White'],soap dispenser_1
+What color is soap dispenser_1?,['White'],soap dispenser_1
+What does the color of soap dispenser_1 look like?,['White'],soap dispenser_1
+Can you specify the color of soap dispenser_1?,['White'],soap dispenser_1
+What is the distance from the soap dispenser_1 to the player?,[18.02],soap dispenser_1
+How far is the soap dispenser_1 from the player?,[18.02],soap dispenser_1
+Can you tell me the distance between the soap dispenser_1 and the player?,[18.02],soap dispenser_1
+What is the player-to-soap dispenser_1 distance?,[18.02],soap dispenser_1
+How distant is the soap dispenser_1 from the player?,[18.02],soap dispenser_1
+What is the direction of the soap dispenser_1 to the player?,['Soap dispenser_1 is front left of the player.'],soap dispenser_1
+Can you tell me the direction of the soap dispenser_1 relative to the player?,['Soap dispenser_1 is front left of the player.'],soap dispenser_1
+What direction is the soap dispenser_1 from the player?,['Soap dispenser_1 is front left of the player.'],soap dispenser_1
+In which direction is the soap dispenser_1 located relative to the player?,['Soap dispenser_1 is front left of the player.'],soap dispenser_1
+Where is the soap dispenser_1 in relation to the player's position?,['Soap dispenser_1 is front left of the player.'],soap dispenser_1
+What is the position of soap dispenser_2?,"[""{'x': -13.850001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_2
+Can you tell me the position of soap dispenser_2?,"[""{'x': -13.850001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_2
+Where is soap dispenser_2 located?,"[""{'x': -13.850001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_2
+Please specify the position of soap dispenser_2.,"[""{'x': -13.850001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_2
+Where can I find the soap dispenser_2?,"[""{'x': -13.850001335144043, 'y': 1.7890000343322754, 'z': 5.650000095367432}""]",soap dispenser_2
+Is soap dispenser_2 interactive?,['Yes'],soap dispenser_2
+Can I interact with soap dispenser_2?,['Yes'],soap dispenser_2
+Does soap dispenser_2 have interactivity?,['Yes'],soap dispenser_2
+Is it possible to interact with soap dispenser_2?,['Yes'],soap dispenser_2
+Can users interact with soap dispenser_2?,['Yes'],soap dispenser_2
+What is the material of soap dispenser_2?,['plastic'],soap dispenser_2
+Can you specify the material of soap dispenser_2?,['plastic'],soap dispenser_2
+Which material is soap dispenser_2 made of?,['plastic'],soap dispenser_2
+Can you tell me what soap dispenser_2 is made of?,['plastic'],soap dispenser_2
+What kind of material does soap dispenser_2 have?,['plastic'],soap dispenser_2
+What is the color of soap dispenser_2?,['White'],soap dispenser_2
+Can you tell me the color of soap dispenser_2?,['White'],soap dispenser_2
+What color is soap dispenser_2?,['White'],soap dispenser_2
+What does the color of soap dispenser_2 look like?,['White'],soap dispenser_2
+Can you specify the color of soap dispenser_2?,['White'],soap dispenser_2
+What is the distance from the soap dispenser_2 to the player?,[19.69],soap dispenser_2
+How far is the soap dispenser_2 from the player?,[19.69],soap dispenser_2
+Can you tell me the distance between the soap dispenser_2 and the player?,[19.69],soap dispenser_2
+What is the player-to-soap dispenser_2 distance?,[19.69],soap dispenser_2
+How distant is the soap dispenser_2 from the player?,[19.69],soap dispenser_2
+What is the direction of the soap dispenser_2 to the player?,['Soap dispenser_2 is front left of the player.'],soap dispenser_2
+Can you tell me the direction of the soap dispenser_2 relative to the player?,['Soap dispenser_2 is front left of the player.'],soap dispenser_2
+What direction is the soap dispenser_2 from the player?,['Soap dispenser_2 is front left of the player.'],soap dispenser_2
+In which direction is the soap dispenser_2 located relative to the player?,['Soap dispenser_2 is front left of the player.'],soap dispenser_2
+Where is the soap dispenser_2 in relation to the player's position?,['Soap dispenser_2 is front left of the player.'],soap dispenser_2
+What is the position of mirror_1?,"[""{'x': -13.84999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_1
+Can you tell me the position of mirror_1?,"[""{'x': -13.84999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_1
+Where is mirror_1 located?,"[""{'x': -13.84999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_1
+Please specify the position of mirror_1.,"[""{'x': -13.84999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_1
+Where can I find the mirror_1?,"[""{'x': -13.84999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_1
+Is mirror_1 interactive?,['Yes'],mirror_1
+Can I interact with mirror_1?,['Yes'],mirror_1
+Does mirror_1 have interactivity?,['Yes'],mirror_1
+Is it possible to interact with mirror_1?,['Yes'],mirror_1
+Can users interact with mirror_1?,['Yes'],mirror_1
+What is the material of mirror_1?,['glass'],mirror_1
+Can you specify the material of mirror_1?,['glass'],mirror_1
+Which material is mirror_1 made of?,['glass'],mirror_1
+Can you tell me what mirror_1 is made of?,['glass'],mirror_1
+What kind of material does mirror_1 have?,['glass'],mirror_1
+What is the color of mirror_1?,['White'],mirror_1
+Can you tell me the color of mirror_1?,['White'],mirror_1
+What color is mirror_1?,['White'],mirror_1
+What does the color of mirror_1 look like?,['White'],mirror_1
+Can you specify the color of mirror_1?,['White'],mirror_1
+What is the distance from the mirror_1 to the player?,[19.08],mirror_1
+How far is the mirror_1 from the player?,[19.08],mirror_1
+Can you tell me the distance between the mirror_1 and the player?,[19.08],mirror_1
+What is the player-to-mirror_1 distance?,[19.08],mirror_1
+How distant is the mirror_1 from the player?,[19.08],mirror_1
+What is the direction of the mirror_1 to the player?,['Mirror_1 is front left of the player.'],mirror_1
+Can you tell me the direction of the mirror_1 relative to the player?,['Mirror_1 is front left of the player.'],mirror_1
+What direction is the mirror_1 from the player?,['Mirror_1 is front left of the player.'],mirror_1
+In which direction is the mirror_1 located relative to the player?,['Mirror_1 is front left of the player.'],mirror_1
+Where is the mirror_1 in relation to the player's position?,['Mirror_1 is front left of the player.'],mirror_1
+What is the position of mirror_2?,"[""{'x': -11.34999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_2
+Can you tell me the position of mirror_2?,"[""{'x': -11.34999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_2
+Where is mirror_2 located?,"[""{'x': -11.34999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_2
+Please specify the position of mirror_2.,"[""{'x': -11.34999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_2
+Where can I find the mirror_2?,"[""{'x': -11.34999942779541, 'y': 2.1449999809265137, 'z': 4.77400016784668}""]",mirror_2
+Is mirror_2 interactive?,['Yes'],mirror_2
+Can I interact with mirror_2?,['Yes'],mirror_2
+Does mirror_2 have interactivity?,['Yes'],mirror_2
+Is it possible to interact with mirror_2?,['Yes'],mirror_2
+Can users interact with mirror_2?,['Yes'],mirror_2
+What is the material of mirror_2?,['glass'],mirror_2
+Can you specify the material of mirror_2?,['glass'],mirror_2
+Which material is mirror_2 made of?,['glass'],mirror_2
+Can you tell me what mirror_2 is made of?,['glass'],mirror_2
+What kind of material does mirror_2 have?,['glass'],mirror_2
+What is the color of mirror_2?,['White'],mirror_2
+Can you tell me the color of mirror_2?,['White'],mirror_2
+What color is mirror_2?,['White'],mirror_2
+What does the color of mirror_2 look like?,['White'],mirror_2
+Can you specify the color of mirror_2?,['White'],mirror_2
+What is the distance from the mirror_2 to the player?,[17.35],mirror_2
+How far is the mirror_2 from the player?,[17.35],mirror_2
+Can you tell me the distance between the mirror_2 and the player?,[17.35],mirror_2
+What is the player-to-mirror_2 distance?,[17.35],mirror_2
+How distant is the mirror_2 from the player?,[17.35],mirror_2
+What is the direction of the mirror_2 to the player?,['Mirror_2 is front left of the player.'],mirror_2
+Can you tell me the direction of the mirror_2 relative to the player?,['Mirror_2 is front left of the player.'],mirror_2
+What direction is the mirror_2 from the player?,['Mirror_2 is front left of the player.'],mirror_2
+In which direction is the mirror_2 located relative to the player?,['Mirror_2 is front left of the player.'],mirror_2
+Where is the mirror_2 in relation to the player's position?,['Mirror_2 is front left of the player.'],mirror_2
+What is the position of paper towel dispenser_1?,"[""{'x': -13.850003242492676, 'y': 1.7690000534057617, 'z': 6.379000186920166}""]",paper towel dispenser_1
+Can you tell me the position of paper towel dispenser_1?,"[""{'x': -13.850003242492676, 'y': 1.7690000534057617, 'z': 6.379000186920166}""]",paper towel dispenser_1
+Where is paper towel dispenser_1 located?,"[""{'x': -13.850003242492676, 'y': 1.7690000534057617, 'z': 6.379000186920166}""]",paper towel dispenser_1
+Please specify the position of paper towel dispenser_1.,"[""{'x': -13.850003242492676, 'y': 1.7690000534057617, 'z': 6.379000186920166}""]",paper towel dispenser_1
+Where can I find the paper towel dispenser_1?,"[""{'x': -13.850003242492676, 'y': 1.7690000534057617, 'z': 6.379000186920166}""]",paper towel dispenser_1
+Is paper towel dispenser_1 interactive?,['Yes'],paper towel dispenser_1
+Can I interact with paper towel dispenser_1?,['Yes'],paper towel dispenser_1
+Does paper towel dispenser_1 have interactivity?,['Yes'],paper towel dispenser_1
+Is it possible to interact with paper towel dispenser_1?,['Yes'],paper towel dispenser_1
+Can users interact with paper towel dispenser_1?,['Yes'],paper towel dispenser_1
+What is the material of paper towel dispenser_1?,['plastic'],paper towel dispenser_1
+Can you specify the material of paper towel dispenser_1?,['plastic'],paper towel dispenser_1
+Which material is paper towel dispenser_1 made of?,['plastic'],paper towel dispenser_1
+Can you tell me what paper towel dispenser_1 is made of?,['plastic'],paper towel dispenser_1
+What kind of material does paper towel dispenser_1 have?,['plastic'],paper towel dispenser_1
+What is the color of paper towel dispenser_1?,['White'],paper towel dispenser_1
+Can you tell me the color of paper towel dispenser_1?,['White'],paper towel dispenser_1
+What color is paper towel dispenser_1?,['White'],paper towel dispenser_1
+What does the color of paper towel dispenser_1 look like?,['White'],paper towel dispenser_1
+Can you specify the color of paper towel dispenser_1?,['White'],paper towel dispenser_1
+What is the distance from the paper towel dispenser_1 to the player?,[20.22],paper towel dispenser_1
+How far is the paper towel dispenser_1 from the player?,[20.22],paper towel dispenser_1
+Can you tell me the distance between the paper towel dispenser_1 and the player?,[20.22],paper towel dispenser_1
+What is the player-to-paper towel dispenser_1 distance?,[20.22],paper towel dispenser_1
+How distant is the paper towel dispenser_1 from the player?,[20.22],paper towel dispenser_1
+What is the direction of the paper towel dispenser_1 to the player?,['Paper towel dispenser_1 is front left of the player.'],paper towel dispenser_1
+Can you tell me the direction of the paper towel dispenser_1 relative to the player?,['Paper towel dispenser_1 is front left of the player.'],paper towel dispenser_1
+What direction is the paper towel dispenser_1 from the player?,['Paper towel dispenser_1 is front left of the player.'],paper towel dispenser_1
+In which direction is the paper towel dispenser_1 located relative to the player?,['Paper towel dispenser_1 is front left of the player.'],paper towel dispenser_1
+Where is the paper towel dispenser_1 in relation to the player's position?,['Paper towel dispenser_1 is front left of the player.'],paper towel dispenser_1
+What is the position of paper towel dispenser_2?,"[""{'x': -13.64999771118164, 'y': 1.0420000553131104, 'z': 2.8469998836517334}""]",paper towel dispenser_2
+Can you tell me the position of paper towel dispenser_2?,"[""{'x': -13.64999771118164, 'y': 1.0420000553131104, 'z': 2.8469998836517334}""]",paper towel dispenser_2
+Where is paper towel dispenser_2 located?,"[""{'x': -13.64999771118164, 'y': 1.0420000553131104, 'z': 2.8469998836517334}""]",paper towel dispenser_2
+Please specify the position of paper towel dispenser_2.,"[""{'x': -13.64999771118164, 'y': 1.0420000553131104, 'z': 2.8469998836517334}""]",paper towel dispenser_2
+Where can I find the paper towel dispenser_2?,"[""{'x': -13.64999771118164, 'y': 1.0420000553131104, 'z': 2.8469998836517334}""]",paper towel dispenser_2
+Is paper towel dispenser_2 interactive?,['Yes'],paper towel dispenser_2
+Can I interact with paper towel dispenser_2?,['Yes'],paper towel dispenser_2
+Does paper towel dispenser_2 have interactivity?,['Yes'],paper towel dispenser_2
+Is it possible to interact with paper towel dispenser_2?,['Yes'],paper towel dispenser_2
+Can users interact with paper towel dispenser_2?,['Yes'],paper towel dispenser_2
+What is the material of paper towel dispenser_2?,['plastic'],paper towel dispenser_2
+Can you specify the material of paper towel dispenser_2?,['plastic'],paper towel dispenser_2
+Which material is paper towel dispenser_2 made of?,['plastic'],paper towel dispenser_2
+Can you tell me what paper towel dispenser_2 is made of?,['plastic'],paper towel dispenser_2
+What kind of material does paper towel dispenser_2 have?,['plastic'],paper towel dispenser_2
+What is the color of paper towel dispenser_2?,['White'],paper towel dispenser_2
+Can you tell me the color of paper towel dispenser_2?,['White'],paper towel dispenser_2
+What color is paper towel dispenser_2?,['White'],paper towel dispenser_2
+What does the color of paper towel dispenser_2 look like?,['White'],paper towel dispenser_2
+Can you specify the color of paper towel dispenser_2?,['White'],paper towel dispenser_2
+What is the distance from the paper towel dispenser_2 to the player?,[17.68],paper towel dispenser_2
+How far is the paper towel dispenser_2 from the player?,[17.68],paper towel dispenser_2
+Can you tell me the distance between the paper towel dispenser_2 and the player?,[17.68],paper towel dispenser_2
+What is the player-to-paper towel dispenser_2 distance?,[17.68],paper towel dispenser_2
+How distant is the paper towel dispenser_2 from the player?,[17.68],paper towel dispenser_2
+What is the direction of the paper towel dispenser_2 to the player?,['Paper towel dispenser_2 is front left of the player.'],paper towel dispenser_2
+Can you tell me the direction of the paper towel dispenser_2 relative to the player?,['Paper towel dispenser_2 is front left of the player.'],paper towel dispenser_2
+What direction is the paper towel dispenser_2 from the player?,['Paper towel dispenser_2 is front left of the player.'],paper towel dispenser_2
+In which direction is the paper towel dispenser_2 located relative to the player?,['Paper towel dispenser_2 is front left of the player.'],paper towel dispenser_2
+Where is the paper towel dispenser_2 in relation to the player's position?,['Paper towel dispenser_2 is front left of the player.'],paper towel dispenser_2
+What is the position of toilet_1?,"[""{'x': -15.0, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_1
+Can you tell me the position of toilet_1?,"[""{'x': -15.0, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_1
+Where is toilet_1 located?,"[""{'x': -15.0, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_1
+Please specify the position of toilet_1.,"[""{'x': -15.0, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_1
+Where can I find the toilet_1?,"[""{'x': -15.0, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_1
+Is toilet_1 interactive?,['Yes'],toilet_1
+Can I interact with toilet_1?,['Yes'],toilet_1
+Does toilet_1 have interactivity?,['Yes'],toilet_1
+Is it possible to interact with toilet_1?,['Yes'],toilet_1
+Can users interact with toilet_1?,['Yes'],toilet_1
+What is the material of toilet_1?,['porcelain'],toilet_1
+Can you specify the material of toilet_1?,['porcelain'],toilet_1
+Which material is toilet_1 made of?,['porcelain'],toilet_1
+Can you tell me what toilet_1 is made of?,['porcelain'],toilet_1
+What kind of material does toilet_1 have?,['porcelain'],toilet_1
+What is the color of toilet_1?,['White'],toilet_1
+Can you tell me the color of toilet_1?,['White'],toilet_1
+What color is toilet_1?,['White'],toilet_1
+What does the color of toilet_1 look like?,['White'],toilet_1
+Can you specify the color of toilet_1?,['White'],toilet_1
+What is the distance from the toilet_1 to the player?,[18.33],toilet_1
+How far is the toilet_1 from the player?,[18.33],toilet_1
+Can you tell me the distance between the toilet_1 and the player?,[18.33],toilet_1
+What is the player-to-toilet_1 distance?,[18.33],toilet_1
+How distant is the toilet_1 from the player?,[18.33],toilet_1
+What is the direction of the toilet_1 to the player?,['Toilet_1 is front left of the player.'],toilet_1
+Can you tell me the direction of the toilet_1 relative to the player?,['Toilet_1 is front left of the player.'],toilet_1
+What direction is the toilet_1 from the player?,['Toilet_1 is front left of the player.'],toilet_1
+In which direction is the toilet_1 located relative to the player?,['Toilet_1 is front left of the player.'],toilet_1
+Where is the toilet_1 in relation to the player's position?,['Toilet_1 is front left of the player.'],toilet_1
+What is the position of toilet_2?,"[""{'x': -12.5, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_2
+Can you tell me the position of toilet_2?,"[""{'x': -12.5, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_2
+Where is toilet_2 located?,"[""{'x': -12.5, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_2
+Please specify the position of toilet_2.,"[""{'x': -12.5, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_2
+Where can I find the toilet_2?,"[""{'x': -12.5, 'y': 0.09999990463256836, 'z': 2.0190000534057617}""]",toilet_2
+Is toilet_2 interactive?,['Yes'],toilet_2
+Can I interact with toilet_2?,['Yes'],toilet_2
+Does toilet_2 have interactivity?,['Yes'],toilet_2
+Is it possible to interact with toilet_2?,['Yes'],toilet_2
+Can users interact with toilet_2?,['Yes'],toilet_2
+What is the material of toilet_2?,['porcelain'],toilet_2
+Can you specify the material of toilet_2?,['porcelain'],toilet_2
+Which material is toilet_2 made of?,['porcelain'],toilet_2
+Can you tell me what toilet_2 is made of?,['porcelain'],toilet_2
+What kind of material does toilet_2 have?,['porcelain'],toilet_2
+What is the color of toilet_2?,['White'],toilet_2
+Can you tell me the color of toilet_2?,['White'],toilet_2
+What color is toilet_2?,['White'],toilet_2
+What does the color of toilet_2 look like?,['White'],toilet_2
+Can you specify the color of toilet_2?,['White'],toilet_2
+What is the distance from the toilet_2 to the player?,[16.35],toilet_2
+How far is the toilet_2 from the player?,[16.35],toilet_2
+Can you tell me the distance between the toilet_2 and the player?,[16.35],toilet_2
+What is the player-to-toilet_2 distance?,[16.35],toilet_2
+How distant is the toilet_2 from the player?,[16.35],toilet_2
+What is the direction of the toilet_2 to the player?,['Toilet_2 is front left of the player.'],toilet_2
+Can you tell me the direction of the toilet_2 relative to the player?,['Toilet_2 is front left of the player.'],toilet_2
+What direction is the toilet_2 from the player?,['Toilet_2 is front left of the player.'],toilet_2
+In which direction is the toilet_2 located relative to the player?,['Toilet_2 is front left of the player.'],toilet_2
+Where is the toilet_2 in relation to the player's position?,['Toilet_2 is front left of the player.'],toilet_2
+What is the position of sink_1?,"[""{'x': -11.350000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_1
+Can you tell me the position of sink_1?,"[""{'x': -11.350000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_1
+Where is sink_1 located?,"[""{'x': -11.350000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_1
+Please specify the position of sink_1.,"[""{'x': -11.350000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_1
+Where can I find the sink_1?,"[""{'x': -11.350000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_1
+Is sink_1 interactive?,['Yes'],sink_1
+Can I interact with sink_1?,['Yes'],sink_1
+Does sink_1 have interactivity?,['Yes'],sink_1
+Is it possible to interact with sink_1?,['Yes'],sink_1
+Can users interact with sink_1?,['Yes'],sink_1
+What is the material of sink_1?,['porcelain'],sink_1
+Can you specify the material of sink_1?,['porcelain'],sink_1
+Which material is sink_1 made of?,['porcelain'],sink_1
+Can you tell me what sink_1 is made of?,['porcelain'],sink_1
+What kind of material does sink_1 have?,['porcelain'],sink_1
+What is the color of sink_1?,['White'],sink_1
+Can you tell me the color of sink_1?,['White'],sink_1
+What color is sink_1?,['White'],sink_1
+What does the color of sink_1 look like?,['White'],sink_1
+Can you specify the color of sink_1?,['White'],sink_1
+What is the distance from the sink_1 to the player?,[17.37],sink_1
+How far is the sink_1 from the player?,[17.37],sink_1
+Can you tell me the distance between the sink_1 and the player?,[17.37],sink_1
+What is the player-to-sink_1 distance?,[17.37],sink_1
+How distant is the sink_1 from the player?,[17.37],sink_1
+What is the direction of the sink_1 to the player?,['Sink_1 is front left of the player.'],sink_1
+Can you tell me the direction of the sink_1 relative to the player?,['Sink_1 is front left of the player.'],sink_1
+What direction is the sink_1 from the player?,['Sink_1 is front left of the player.'],sink_1
+In which direction is the sink_1 located relative to the player?,['Sink_1 is front left of the player.'],sink_1
+Where is the sink_1 in relation to the player's position?,['Sink_1 is front left of the player.'],sink_1
+What is the position of sink_2?,"[""{'x': -13.850000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_2
+Can you tell me the position of sink_2?,"[""{'x': -13.850000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_2
+Where is sink_2 located?,"[""{'x': -13.850000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_2
+Please specify the position of sink_2.,"[""{'x': -13.850000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_2
+Where can I find the sink_2?,"[""{'x': -13.850000381469727, 'y': 1.1410000324249268, 'z': 4.77400016784668}""]",sink_2
+Is sink_2 interactive?,['Yes'],sink_2
+Can I interact with sink_2?,['Yes'],sink_2
+Does sink_2 have interactivity?,['Yes'],sink_2
+Is it possible to interact with sink_2?,['Yes'],sink_2
+Can users interact with sink_2?,['Yes'],sink_2
+What is the material of sink_2?,['porcelain'],sink_2
+Can you specify the material of sink_2?,['porcelain'],sink_2
+Which material is sink_2 made of?,['porcelain'],sink_2
+Can you tell me what sink_2 is made of?,['porcelain'],sink_2
+What kind of material does sink_2 have?,['porcelain'],sink_2
+What is the color of sink_2?,['White'],sink_2
+Can you tell me the color of sink_2?,['White'],sink_2
+What color is sink_2?,['White'],sink_2
+What does the color of sink_2 look like?,['White'],sink_2
+Can you specify the color of sink_2?,['White'],sink_2
+What is the distance from the sink_2 to the player?,[19.1],sink_2
+How far is the sink_2 from the player?,[19.1],sink_2
+Can you tell me the distance between the sink_2 and the player?,[19.1],sink_2
+What is the player-to-sink_2 distance?,[19.1],sink_2
+How distant is the sink_2 from the player?,[19.1],sink_2
+What is the direction of the sink_2 to the player?,['Sink_2 is front left of the player.'],sink_2
+Can you tell me the direction of the sink_2 relative to the player?,['Sink_2 is front left of the player.'],sink_2
+What direction is the sink_2 from the player?,['Sink_2 is front left of the player.'],sink_2
+In which direction is the sink_2 located relative to the player?,['Sink_2 is front left of the player.'],sink_2
+Where is the sink_2 in relation to the player's position?,['Sink_2 is front left of the player.'],sink_2
+What is the position of water drinking machine_1?,"[""{'x': -5.077000141143799, 'y': 1.365748643875122, 'z': 17.19300079345703}""]",water drinking machine_1
+Can you tell me the position of water drinking machine_1?,"[""{'x': -5.077000141143799, 'y': 1.365748643875122, 'z': 17.19300079345703}""]",water drinking machine_1
+Where is water drinking machine_1 located?,"[""{'x': -5.077000141143799, 'y': 1.365748643875122, 'z': 17.19300079345703}""]",water drinking machine_1
+Please specify the position of water drinking machine_1.,"[""{'x': -5.077000141143799, 'y': 1.365748643875122, 'z': 17.19300079345703}""]",water drinking machine_1
+Where can I find the water drinking machine_1?,"[""{'x': -5.077000141143799, 'y': 1.365748643875122, 'z': 17.19300079345703}""]",water drinking machine_1
+Is water drinking machine_1 interactive?,['Yes'],water drinking machine_1
+Can I interact with water drinking machine_1?,['Yes'],water drinking machine_1
+Does water drinking machine_1 have interactivity?,['Yes'],water drinking machine_1
+Is it possible to interact with water drinking machine_1?,['Yes'],water drinking machine_1
+Can users interact with water drinking machine_1?,['Yes'],water drinking machine_1
+What is the material of water drinking machine_1?,['plastic'],water drinking machine_1
+Can you specify the material of water drinking machine_1?,['plastic'],water drinking machine_1
+Which material is water drinking machine_1 made of?,['plastic'],water drinking machine_1
+Can you tell me what water drinking machine_1 is made of?,['plastic'],water drinking machine_1
+What kind of material does water drinking machine_1 have?,['plastic'],water drinking machine_1
+What is the color of water drinking machine_1?,['White'],water drinking machine_1
+Can you tell me the color of water drinking machine_1?,['White'],water drinking machine_1
+What color is water drinking machine_1?,['White'],water drinking machine_1
+What does the color of water drinking machine_1 look like?,['White'],water drinking machine_1
+Can you specify the color of water drinking machine_1?,['White'],water drinking machine_1
+What is the distance from the water drinking machine_1 to the player?,[26.05],water drinking machine_1
+How far is the water drinking machine_1 from the player?,[26.05],water drinking machine_1
+Can you tell me the distance between the water drinking machine_1 and the player?,[26.05],water drinking machine_1
+What is the player-to-water drinking machine_1 distance?,[26.05],water drinking machine_1
+How distant is the water drinking machine_1 from the player?,[26.05],water drinking machine_1
+What is the direction of the water drinking machine_1 to the player?,['Water drinking machine_1 is front left of the player.'],water drinking machine_1
+Can you tell me the direction of the water drinking machine_1 relative to the player?,['Water drinking machine_1 is front left of the player.'],water drinking machine_1
+What direction is the water drinking machine_1 from the player?,['Water drinking machine_1 is front left of the player.'],water drinking machine_1
+In which direction is the water drinking machine_1 located relative to the player?,['Water drinking machine_1 is front left of the player.'],water drinking machine_1
+Where is the water drinking machine_1 in relation to the player's position?,['Water drinking machine_1 is front left of the player.'],water drinking machine_1
+What is the position of men's room_1?,"[""{'x': -15.0, 'y': -4.954248993271904e-07, 'z': 10.0}""]",men's room_1
+Can you tell me the position of men's room_1?,"[""{'x': -15.0, 'y': -4.954248993271904e-07, 'z': 10.0}""]",men's room_1
+Where is men's room_1 located?,"[""{'x': -15.0, 'y': -4.954248993271904e-07, 'z': 10.0}""]",men's room_1
+Please specify the position of men's room_1.,"[""{'x': -15.0, 'y': -4.954248993271904e-07, 'z': 10.0}""]",men's room_1
+Where can I find the men's room_1?,"[""{'x': -15.0, 'y': -4.954248993271904e-07, 'z': 10.0}""]",men's room_1
+Is men's room_1 interactive?,['No'],men's room_1
+Can I interact with men's room_1?,['No'],men's room_1
+Does men's room_1 have interactivity?,['No'],men's room_1
+Is it possible to interact with men's room_1?,['No'],men's room_1
+Can users interact with men's room_1?,['No'],men's room_1
+What is the material of men's room_1?,['multiple materials'],men's room_1
+Can you specify the material of men's room_1?,['multiple materials'],men's room_1
+Which material is men's room_1 made of?,['multiple materials'],men's room_1
+Can you tell me what men's room_1 is made of?,['multiple materials'],men's room_1
+What kind of material does men's room_1 have?,['multiple materials'],men's room_1
+What is the color of men's room_1?,['White'],men's room_1
+Can you tell me the color of men's room_1?,['White'],men's room_1
+What color is men's room_1?,['White'],men's room_1
+What does the color of men's room_1 look like?,['White'],men's room_1
+Can you specify the color of men's room_1?,['White'],men's room_1
+What is the distance from the men's room_1 to the player?,[23.78],men's room_1
+How far is the men's room_1 from the player?,[23.78],men's room_1
+Can you tell me the distance between the men's room_1 and the player?,[23.78],men's room_1
+What is the player-to-men's room_1 distance?,[23.78],men's room_1
+How distant is the men's room_1 from the player?,[23.78],men's room_1
+What is the direction of the men's room_1 to the player?,"[""Men's room_1 is front left of the player.""]",men's room_1
+Can you tell me the direction of the men's room_1 relative to the player?,"[""Men's room_1 is front left of the player.""]",men's room_1
+What direction is the men's room_1 from the player?,"[""Men's room_1 is front left of the player.""]",men's room_1
+In which direction is the men's room_1 located relative to the player?,"[""Men's room_1 is front left of the player.""]",men's room_1
+Where is the men's room_1 in relation to the player's position?,"[""Men's room_1 is front left of the player.""]",men's room_1
+What is the position of handdryer_1?,"[""{'x': -11.34999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_1
+Can you tell me the position of handdryer_1?,"[""{'x': -11.34999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_1
+Where is handdryer_1 located?,"[""{'x': -11.34999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_1
+Please specify the position of handdryer_1.,"[""{'x': -11.34999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_1
+Where can I find the handdryer_1?,"[""{'x': -11.34999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_1
+Is handdryer_1 interactive?,['Yes'],handdryer_1
+Can I interact with handdryer_1?,['Yes'],handdryer_1
+Does handdryer_1 have interactivity?,['Yes'],handdryer_1
+Is it possible to interact with handdryer_1?,['Yes'],handdryer_1
+Can users interact with handdryer_1?,['Yes'],handdryer_1
+What is the material of handdryer_1?,['plastic'],handdryer_1
+Can you specify the material of handdryer_1?,['plastic'],handdryer_1
+Which material is handdryer_1 made of?,['plastic'],handdryer_1
+Can you tell me what handdryer_1 is made of?,['plastic'],handdryer_1
+What kind of material does handdryer_1 have?,['plastic'],handdryer_1
+What is the color of handdryer_1?,['White'],handdryer_1
+Can you tell me the color of handdryer_1?,['White'],handdryer_1
+What color is handdryer_1?,['White'],handdryer_1
+What does the color of handdryer_1 look like?,['White'],handdryer_1
+Can you specify the color of handdryer_1?,['White'],handdryer_1
+What is the distance from the handdryer_1 to the player?,[19.49],handdryer_1
+How far is the handdryer_1 from the player?,[19.49],handdryer_1
+Can you tell me the distance between the handdryer_1 and the player?,[19.49],handdryer_1
+What is the player-to-handdryer_1 distance?,[19.49],handdryer_1
+How distant is the handdryer_1 from the player?,[19.49],handdryer_1
+What is the direction of the handdryer_1 to the player?,['Handdryer_1 is front left of the player.'],handdryer_1
+Can you tell me the direction of the handdryer_1 relative to the player?,['Handdryer_1 is front left of the player.'],handdryer_1
+What direction is the handdryer_1 from the player?,['Handdryer_1 is front left of the player.'],handdryer_1
+In which direction is the handdryer_1 located relative to the player?,['Handdryer_1 is front left of the player.'],handdryer_1
+Where is the handdryer_1 in relation to the player's position?,['Handdryer_1 is front left of the player.'],handdryer_1
+What is the position of handdryer_2?,"[""{'x': -13.84999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_2
+Can you tell me the position of handdryer_2?,"[""{'x': -13.84999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_2
+Where is handdryer_2 located?,"[""{'x': -13.84999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_2
+Please specify the position of handdryer_2.,"[""{'x': -13.84999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_2
+Where can I find the handdryer_2?,"[""{'x': -13.84999942779541, 'y': 1.7619999647140503, 'z': 7.492000102996826}""]",handdryer_2
+Is handdryer_2 interactive?,['Yes'],handdryer_2
+Can I interact with handdryer_2?,['Yes'],handdryer_2
+Does handdryer_2 have interactivity?,['Yes'],handdryer_2
+Is it possible to interact with handdryer_2?,['Yes'],handdryer_2
+Can users interact with handdryer_2?,['Yes'],handdryer_2
+What is the material of handdryer_2?,['plastic'],handdryer_2
+Can you specify the material of handdryer_2?,['plastic'],handdryer_2
+Which material is handdryer_2 made of?,['plastic'],handdryer_2
+Can you tell me what handdryer_2 is made of?,['plastic'],handdryer_2
+What kind of material does handdryer_2 have?,['plastic'],handdryer_2
+What is the color of handdryer_2?,['White'],handdryer_2
+Can you tell me the color of handdryer_2?,['White'],handdryer_2
+What color is handdryer_2?,['White'],handdryer_2
+What does the color of handdryer_2 look like?,['White'],handdryer_2
+Can you specify the color of handdryer_2?,['White'],handdryer_2
+What is the distance from the handdryer_2 to the player?,[21.04],handdryer_2
+How far is the handdryer_2 from the player?,[21.04],handdryer_2
+Can you tell me the distance between the handdryer_2 and the player?,[21.04],handdryer_2
+What is the player-to-handdryer_2 distance?,[21.04],handdryer_2
+How distant is the handdryer_2 from the player?,[21.04],handdryer_2
+What is the direction of the handdryer_2 to the player?,['Handdryer_2 is front left of the player.'],handdryer_2
+Can you tell me the direction of the handdryer_2 relative to the player?,['Handdryer_2 is front left of the player.'],handdryer_2
+What direction is the handdryer_2 from the player?,['Handdryer_2 is front left of the player.'],handdryer_2
+In which direction is the handdryer_2 located relative to the player?,['Handdryer_2 is front left of the player.'],handdryer_2
+Where is the handdryer_2 in relation to the player's position?,['Handdryer_2 is front left of the player.'],handdryer_2
+What is the position of service plate_1?,"[""{'x': 4.570269584655762, 'y': 1.323140263557434, 'z': 9.457595825195312}""]",service plate_1
+Can you tell me the position of service plate_1?,"[""{'x': 4.570269584655762, 'y': 1.323140263557434, 'z': 9.457595825195312}""]",service plate_1
+Where is service plate_1 located?,"[""{'x': 4.570269584655762, 'y': 1.323140263557434, 'z': 9.457595825195312}""]",service plate_1
+Please specify the position of service plate_1.,"[""{'x': 4.570269584655762, 'y': 1.323140263557434, 'z': 9.457595825195312}""]",service plate_1
+Where can I find the service plate_1?,"[""{'x': 4.570269584655762, 'y': 1.323140263557434, 'z': 9.457595825195312}""]",service plate_1
+Is service plate_1 interactive?,['Yes'],service plate_1
+Can I interact with service plate_1?,['Yes'],service plate_1
+Does service plate_1 have interactivity?,['Yes'],service plate_1
+Is it possible to interact with service plate_1?,['Yes'],service plate_1
+Can users interact with service plate_1?,['Yes'],service plate_1
+What is the material of service plate_1?,['plastic'],service plate_1
+Can you specify the material of service plate_1?,['plastic'],service plate_1
+Which material is service plate_1 made of?,['plastic'],service plate_1
+Can you tell me what service plate_1 is made of?,['plastic'],service plate_1
+What kind of material does service plate_1 have?,['plastic'],service plate_1
+What is the color of service plate_1?,['White'],service plate_1
+Can you tell me the color of service plate_1?,['White'],service plate_1
+What color is service plate_1?,['White'],service plate_1
+What does the color of service plate_1 look like?,['White'],service plate_1
+Can you specify the color of service plate_1?,['White'],service plate_1
+What is the distance from the service plate_1 to the player?,[18.4],service plate_1
+How far is the service plate_1 from the player?,[18.4],service plate_1
+Can you tell me the distance between the service plate_1 and the player?,[18.4],service plate_1
+What is the player-to-service plate_1 distance?,[18.4],service plate_1
+How distant is the service plate_1 from the player?,[18.4],service plate_1
+What is the direction of the service plate_1 to the player?,['Service plate_1 is front right of the player.'],service plate_1
+Can you tell me the direction of the service plate_1 relative to the player?,['Service plate_1 is front right of the player.'],service plate_1
+What direction is the service plate_1 from the player?,['Service plate_1 is front right of the player.'],service plate_1
+In which direction is the service plate_1 located relative to the player?,['Service plate_1 is front right of the player.'],service plate_1
+Where is the service plate_1 in relation to the player's position?,['Service plate_1 is front right of the player.'],service plate_1
+What is the position of service plate_2?,"[""{'x': -9.64201545715332, 'y': 1.3231403827667236, 'z': 3.1830101013183594}""]",service plate_2
+Can you tell me the position of service plate_2?,"[""{'x': -9.64201545715332, 'y': 1.3231403827667236, 'z': 3.1830101013183594}""]",service plate_2
+Where is service plate_2 located?,"[""{'x': -9.64201545715332, 'y': 1.3231403827667236, 'z': 3.1830101013183594}""]",service plate_2
+Please specify the position of service plate_2.,"[""{'x': -9.64201545715332, 'y': 1.3231403827667236, 'z': 3.1830101013183594}""]",service plate_2
+Where can I find the service plate_2?,"[""{'x': -9.64201545715332, 'y': 1.3231403827667236, 'z': 3.1830101013183594}""]",service plate_2
+Is service plate_2 interactive?,['Yes'],service plate_2
+Can I interact with service plate_2?,['Yes'],service plate_2
+Does service plate_2 have interactivity?,['Yes'],service plate_2
+Is it possible to interact with service plate_2?,['Yes'],service plate_2
+Can users interact with service plate_2?,['Yes'],service plate_2
+What is the material of service plate_2?,['plastic'],service plate_2
+Can you specify the material of service plate_2?,['plastic'],service plate_2
+Which material is service plate_2 made of?,['plastic'],service plate_2
+Can you tell me what service plate_2 is made of?,['plastic'],service plate_2
+What kind of material does service plate_2 have?,['plastic'],service plate_2
+What is the color of service plate_2?,['White'],service plate_2
+Can you tell me the color of service plate_2?,['White'],service plate_2
+What color is service plate_2?,['White'],service plate_2
+What does the color of service plate_2 look like?,['White'],service plate_2
+Can you specify the color of service plate_2?,['White'],service plate_2
+What is the distance from the service plate_2 to the player?,[15.05],service plate_2
+How far is the service plate_2 from the player?,[15.05],service plate_2
+Can you tell me the distance between the service plate_2 and the player?,[15.05],service plate_2
+What is the player-to-service plate_2 distance?,[15.05],service plate_2
+How distant is the service plate_2 from the player?,[15.05],service plate_2
+What is the direction of the service plate_2 to the player?,['Service plate_2 is front left of the player.'],service plate_2
+Can you tell me the direction of the service plate_2 relative to the player?,['Service plate_2 is front left of the player.'],service plate_2
+What direction is the service plate_2 from the player?,['Service plate_2 is front left of the player.'],service plate_2
+In which direction is the service plate_2 located relative to the player?,['Service plate_2 is front left of the player.'],service plate_2
+Where is the service plate_2 in relation to the player's position?,['Service plate_2 is front left of the player.'],service plate_2
+What is the position of display shelf_1?,"[""{'x': -3.2899999618530273, 'y': 1.3657487630844116, 'z': 17.3439998626709}""]",display shelf_1
+Can you tell me the position of display shelf_1?,"[""{'x': -3.2899999618530273, 'y': 1.3657487630844116, 'z': 17.3439998626709}""]",display shelf_1
+Where is display shelf_1 located?,"[""{'x': -3.2899999618530273, 'y': 1.3657487630844116, 'z': 17.3439998626709}""]",display shelf_1
+Please specify the position of display shelf_1.,"[""{'x': -3.2899999618530273, 'y': 1.3657487630844116, 'z': 17.3439998626709}""]",display shelf_1
+Where can I find the display shelf_1?,"[""{'x': -3.2899999618530273, 'y': 1.3657487630844116, 'z': 17.3439998626709}""]",display shelf_1
+Is display shelf_1 interactive?,['Yes'],display shelf_1
+Can I interact with display shelf_1?,['Yes'],display shelf_1
+Does display shelf_1 have interactivity?,['Yes'],display shelf_1
+Is it possible to interact with display shelf_1?,['Yes'],display shelf_1
+Can users interact with display shelf_1?,['Yes'],display shelf_1
+What is the material of display shelf_1?,['multiple materials'],display shelf_1
+Can you specify the material of display shelf_1?,['multiple materials'],display shelf_1
+Which material is display shelf_1 made of?,['multiple materials'],display shelf_1
+Can you tell me what display shelf_1 is made of?,['multiple materials'],display shelf_1
+What kind of material does display shelf_1 have?,['multiple materials'],display shelf_1
+What is the color of display shelf_1?,['Black'],display shelf_1
+Can you tell me the color of display shelf_1?,['Black'],display shelf_1
+What color is display shelf_1?,['Black'],display shelf_1
+What does the color of display shelf_1 look like?,['Black'],display shelf_1
+Can you specify the color of display shelf_1?,['Black'],display shelf_1
+What is the distance from the display shelf_1 to the player?,[25.91],display shelf_1
+How far is the display shelf_1 from the player?,[25.91],display shelf_1
+Can you tell me the distance between the display shelf_1 and the player?,[25.91],display shelf_1
+What is the player-to-display shelf_1 distance?,[25.91],display shelf_1
+How distant is the display shelf_1 from the player?,[25.91],display shelf_1
+What is the direction of the display shelf_1 to the player?,['Display shelf_1 is front left of the player.'],display shelf_1
+Can you tell me the direction of the display shelf_1 relative to the player?,['Display shelf_1 is front left of the player.'],display shelf_1
+What direction is the display shelf_1 from the player?,['Display shelf_1 is front left of the player.'],display shelf_1
+In which direction is the display shelf_1 located relative to the player?,['Display shelf_1 is front left of the player.'],display shelf_1
+Where is the display shelf_1 in relation to the player's position?,['Display shelf_1 is front left of the player.'],display shelf_1
+What is the position of receipt printer_1?,"[""{'x': -1.1899999380111694, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_1
+Can you tell me the position of receipt printer_1?,"[""{'x': -1.1899999380111694, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_1
+Where is receipt printer_1 located?,"[""{'x': -1.1899999380111694, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_1
+Please specify the position of receipt printer_1.,"[""{'x': -1.1899999380111694, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_1
+Where can I find the receipt printer_1?,"[""{'x': -1.1899999380111694, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_1
+Is receipt printer_1 interactive?,['Yes'],receipt printer_1
+Can I interact with receipt printer_1?,['Yes'],receipt printer_1
+Does receipt printer_1 have interactivity?,['Yes'],receipt printer_1
+Is it possible to interact with receipt printer_1?,['Yes'],receipt printer_1
+Can users interact with receipt printer_1?,['Yes'],receipt printer_1
+What is the material of receipt printer_1?,['steel'],receipt printer_1
+Can you specify the material of receipt printer_1?,['steel'],receipt printer_1
+Which material is receipt printer_1 made of?,['steel'],receipt printer_1
+Can you tell me what receipt printer_1 is made of?,['steel'],receipt printer_1
+What kind of material does receipt printer_1 have?,['steel'],receipt printer_1
+What is the color of receipt printer_1?,['White'],receipt printer_1
+Can you tell me the color of receipt printer_1?,['White'],receipt printer_1
+What color is receipt printer_1?,['White'],receipt printer_1
+What does the color of receipt printer_1 look like?,['White'],receipt printer_1
+Can you specify the color of receipt printer_1?,['White'],receipt printer_1
+What is the distance from the receipt printer_1 to the player?,[25.89],receipt printer_1
+How far is the receipt printer_1 from the player?,[25.89],receipt printer_1
+Can you tell me the distance between the receipt printer_1 and the player?,[25.89],receipt printer_1
+What is the player-to-receipt printer_1 distance?,[25.89],receipt printer_1
+How distant is the receipt printer_1 from the player?,[25.89],receipt printer_1
+What is the direction of the receipt printer_1 to the player?,['Receipt printer_1 is front left of the player.'],receipt printer_1
+Can you tell me the direction of the receipt printer_1 relative to the player?,['Receipt printer_1 is front left of the player.'],receipt printer_1
+What direction is the receipt printer_1 from the player?,['Receipt printer_1 is front left of the player.'],receipt printer_1
+In which direction is the receipt printer_1 located relative to the player?,['Receipt printer_1 is front left of the player.'],receipt printer_1
+Where is the receipt printer_1 in relation to the player's position?,['Receipt printer_1 is front left of the player.'],receipt printer_1
+What is the position of receipt printer_2?,"[""{'x': 0.42500007152557373, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_2
+Can you tell me the position of receipt printer_2?,"[""{'x': 0.42500007152557373, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_2
+Where is receipt printer_2 located?,"[""{'x': 0.42500007152557373, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_2
+Please specify the position of receipt printer_2.,"[""{'x': 0.42500007152557373, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_2
+Where can I find the receipt printer_2?,"[""{'x': 0.42500007152557373, 'y': 1.3657488822937012, 'z': 17.506000518798828}""]",receipt printer_2
+Is receipt printer_2 interactive?,['Yes'],receipt printer_2
+Can I interact with receipt printer_2?,['Yes'],receipt printer_2
+Does receipt printer_2 have interactivity?,['Yes'],receipt printer_2
+Is it possible to interact with receipt printer_2?,['Yes'],receipt printer_2
+Can users interact with receipt printer_2?,['Yes'],receipt printer_2
+What is the material of receipt printer_2?,['steel'],receipt printer_2
+Can you specify the material of receipt printer_2?,['steel'],receipt printer_2
+Which material is receipt printer_2 made of?,['steel'],receipt printer_2
+Can you tell me what receipt printer_2 is made of?,['steel'],receipt printer_2
+What kind of material does receipt printer_2 have?,['steel'],receipt printer_2
+What is the color of receipt printer_2?,['White'],receipt printer_2
+Can you tell me the color of receipt printer_2?,['White'],receipt printer_2
+What color is receipt printer_2?,['White'],receipt printer_2
+What does the color of receipt printer_2 look like?,['White'],receipt printer_2
+Can you specify the color of receipt printer_2?,['White'],receipt printer_2
+What is the distance from the receipt printer_2 to the player?,[25.87],receipt printer_2
+How far is the receipt printer_2 from the player?,[25.87],receipt printer_2
+Can you tell me the distance between the receipt printer_2 and the player?,[25.87],receipt printer_2
+What is the player-to-receipt printer_2 distance?,[25.87],receipt printer_2
+How distant is the receipt printer_2 from the player?,[25.87],receipt printer_2
+What is the direction of the receipt printer_2 to the player?,['Receipt printer_2 is front right of the player.'],receipt printer_2
+Can you tell me the direction of the receipt printer_2 relative to the player?,['Receipt printer_2 is front right of the player.'],receipt printer_2
+What direction is the receipt printer_2 from the player?,['Receipt printer_2 is front right of the player.'],receipt printer_2
+In which direction is the receipt printer_2 located relative to the player?,['Receipt printer_2 is front right of the player.'],receipt printer_2
+Where is the receipt printer_2 in relation to the player's position?,['Receipt printer_2 is front right of the player.'],receipt printer_2
+What is the position of women's room_1?,"[""{'x': -12.5, 'y': -4.954248993271904e-07, 'z': 10.0}""]",women's room_1
+Can you tell me the position of women's room_1?,"[""{'x': -12.5, 'y': -4.954248993271904e-07, 'z': 10.0}""]",women's room_1
+Where is women's room_1 located?,"[""{'x': -12.5, 'y': -4.954248993271904e-07, 'z': 10.0}""]",women's room_1
+Please specify the position of women's room_1.,"[""{'x': -12.5, 'y': -4.954248993271904e-07, 'z': 10.0}""]",women's room_1
+Where can I find the women's room_1?,"[""{'x': -12.5, 'y': -4.954248993271904e-07, 'z': 10.0}""]",women's room_1
+Is women's room_1 interactive?,['No'],women's room_1
+Can I interact with women's room_1?,['No'],women's room_1
+Does women's room_1 have interactivity?,['No'],women's room_1
+Is it possible to interact with women's room_1?,['No'],women's room_1
+Can users interact with women's room_1?,['No'],women's room_1
+What is the material of women's room_1?,['multiple materials'],women's room_1
+Can you specify the material of women's room_1?,['multiple materials'],women's room_1
+Which material is women's room_1 made of?,['multiple materials'],women's room_1
+Can you tell me what women's room_1 is made of?,['multiple materials'],women's room_1
+What kind of material does women's room_1 have?,['multiple materials'],women's room_1
+What is the color of women's room_1?,['White'],women's room_1
+Can you tell me the color of women's room_1?,['White'],women's room_1
+What color is women's room_1?,['White'],women's room_1
+What does the color of women's room_1 look like?,['White'],women's room_1
+Can you specify the color of women's room_1?,['White'],women's room_1
+What is the distance from the women's room_1 to the player?,[22.29],women's room_1
+How far is the women's room_1 from the player?,[22.29],women's room_1
+Can you tell me the distance between the women's room_1 and the player?,[22.29],women's room_1
+What is the player-to-women's room_1 distance?,[22.29],women's room_1
+How distant is the women's room_1 from the player?,[22.29],women's room_1
+What is the direction of the women's room_1 to the player?,"[""Women's room_1 is front left of the player.""]",women's room_1
+Can you tell me the direction of the women's room_1 relative to the player?,"[""Women's room_1 is front left of the player.""]",women's room_1
+What direction is the women's room_1 from the player?,"[""Women's room_1 is front left of the player.""]",women's room_1
+In which direction is the women's room_1 located relative to the player?,"[""Women's room_1 is front left of the player.""]",women's room_1
+Where is the women's room_1 in relation to the player's position?,"[""Women's room_1 is front left of the player.""]",women's room_1
+What is the position of big sign_1?,"[""{'x': -13.75, 'y': 6.119594075926216e-08, 'z': -1.399999976158142}""]",big sign_1
+Can you tell me the position of big sign_1?,"[""{'x': -13.75, 'y': 6.119594075926216e-08, 'z': -1.399999976158142}""]",big sign_1
+Where is big sign_1 located?,"[""{'x': -13.75, 'y': 6.119594075926216e-08, 'z': -1.399999976158142}""]",big sign_1
+Please specify the position of big sign_1.,"[""{'x': -13.75, 'y': 6.119594075926216e-08, 'z': -1.399999976158142}""]",big sign_1
+Where can I find the big sign_1?,"[""{'x': -13.75, 'y': 6.119594075926216e-08, 'z': -1.399999976158142}""]",big sign_1
+Is big sign_1 interactive?,['No'],big sign_1
+Can I interact with big sign_1?,['No'],big sign_1
+Does big sign_1 have interactivity?,['No'],big sign_1
+Is it possible to interact with big sign_1?,['No'],big sign_1
+Can users interact with big sign_1?,['No'],big sign_1
+What is the material of big sign_1?,['plastic'],big sign_1
+Can you specify the material of big sign_1?,['plastic'],big sign_1
+Which material is big sign_1 made of?,['plastic'],big sign_1
+Can you tell me what big sign_1 is made of?,['plastic'],big sign_1
+What kind of material does big sign_1 have?,['plastic'],big sign_1
+What is the color of big sign_1?,['White'],big sign_1
+Can you tell me the color of big sign_1?,['White'],big sign_1
+What color is big sign_1?,['White'],big sign_1
+What does the color of big sign_1 look like?,['White'],big sign_1
+Can you specify the color of big sign_1?,['White'],big sign_1
+What is the distance from the big sign_1 to the player?,[15.54],big sign_1
+How far is the big sign_1 from the player?,[15.54],big sign_1
+Can you tell me the distance between the big sign_1 and the player?,[15.54],big sign_1
+What is the player-to-big sign_1 distance?,[15.54],big sign_1
+How distant is the big sign_1 from the player?,[15.54],big sign_1
+What is the direction of the big sign_1 to the player?,['Big sign_1 is front left of the player.'],big sign_1
+Can you tell me the direction of the big sign_1 relative to the player?,['Big sign_1 is front left of the player.'],big sign_1
+What direction is the big sign_1 from the player?,['Big sign_1 is front left of the player.'],big sign_1
+In which direction is the big sign_1 located relative to the player?,['Big sign_1 is front left of the player.'],big sign_1
+Where is the big sign_1 in relation to the player's position?,['Big sign_1 is front left of the player.'],big sign_1
+What is the position of trash bin_1?,"[""{'x': -2.0490000247955322, 'y': 0.10000014305114746, 'z': 4.559999942779541}""]",trash bin_1
+Can you tell me the position of trash bin_1?,"[""{'x': -2.0490000247955322, 'y': 0.10000014305114746, 'z': 4.559999942779541}""]",trash bin_1
+Where is trash bin_1 located?,"[""{'x': -2.0490000247955322, 'y': 0.10000014305114746, 'z': 4.559999942779541}""]",trash bin_1
+Please specify the position of trash bin_1.,"[""{'x': -2.0490000247955322, 'y': 0.10000014305114746, 'z': 4.559999942779541}""]",trash bin_1
+Where can I find the trash bin_1?,"[""{'x': -2.0490000247955322, 'y': 0.10000014305114746, 'z': 4.559999942779541}""]",trash bin_1
+Is trash bin_1 interactive?,['Yes'],trash bin_1
+Can I interact with trash bin_1?,['Yes'],trash bin_1
+Does trash bin_1 have interactivity?,['Yes'],trash bin_1
+Is it possible to interact with trash bin_1?,['Yes'],trash bin_1
+Can users interact with trash bin_1?,['Yes'],trash bin_1
+What is the material of trash bin_1?,['wood'],trash bin_1
+Can you specify the material of trash bin_1?,['wood'],trash bin_1
+Which material is trash bin_1 made of?,['wood'],trash bin_1
+Can you tell me what trash bin_1 is made of?,['wood'],trash bin_1
+What kind of material does trash bin_1 have?,['wood'],trash bin_1
+What is the color of trash bin_1?,['White'],trash bin_1
+Can you tell me the color of trash bin_1?,['White'],trash bin_1
+What color is trash bin_1?,['White'],trash bin_1
+What does the color of trash bin_1 look like?,['White'],trash bin_1
+Can you specify the color of trash bin_1?,['White'],trash bin_1
+What is the distance from the trash bin_1 to the player?,[13.21],trash bin_1
+How far is the trash bin_1 from the player?,[13.21],trash bin_1
+Can you tell me the distance between the trash bin_1 and the player?,[13.21],trash bin_1
+What is the player-to-trash bin_1 distance?,[13.21],trash bin_1
+How distant is the trash bin_1 from the player?,[13.21],trash bin_1
+What is the direction of the trash bin_1 to the player?,['Trash bin_1 is front left of the player.'],trash bin_1
+Can you tell me the direction of the trash bin_1 relative to the player?,['Trash bin_1 is front left of the player.'],trash bin_1
+What direction is the trash bin_1 from the player?,['Trash bin_1 is front left of the player.'],trash bin_1
+In which direction is the trash bin_1 located relative to the player?,['Trash bin_1 is front left of the player.'],trash bin_1
+Where is the trash bin_1 in relation to the player's position?,['Trash bin_1 is front left of the player.'],trash bin_1

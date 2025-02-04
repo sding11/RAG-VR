@@ -1,0 +1,141 @@
+Questions,Standard answers,Retrieved Tag,Retrieved Name
+Give me the total count of alsedas.,2,alseda,"['alseda_1', 'alseda_2']"
+Can you tell me how many alsedas are present?,2,alseda,"['alseda_1', 'alseda_2']"
+How many alsedas can be found?,2,alseda,"['alseda_1', 'alseda_2']"
+Tell me the total number of alsedas.,2,alseda,"['alseda_1', 'alseda_2']"
+What is the number of alsedas?,2,alseda,"['alseda_1', 'alseda_2']"
+Give me the total count of alu chairs.,1,alu chair,['alu chair_1']
+Can you tell me how many alu chairs are present?,1,alu chair,['alu chair_1']
+How many alu chairs can be found?,1,alu chair,['alu chair_1']
+Tell me the total number of alu chairs.,1,alu chair,['alu chair_1']
+What is the number of alu chairs?,1,alu chair,['alu chair_1']
+Give me the total count of aspen trees.,1,aspen tree,['aspen tree_1']
+Can you tell me how many aspen trees are present?,1,aspen tree,['aspen tree_1']
+How many aspen trees can be found?,1,aspen tree,['aspen tree_1']
+Tell me the total number of aspen trees.,1,aspen tree,['aspen tree_1']
+What is the number of aspen trees?,1,aspen tree,['aspen tree_1']
+Give me the total count of bamboo basket pendant lamps.,1,bamboo basket pendant lamp,['bamboo basket pendant lamp_1']
+Can you tell me how many bamboo basket pendant lamps are present?,1,bamboo basket pendant lamp,['bamboo basket pendant lamp_1']
+How many bamboo basket pendant lamps can be found?,1,bamboo basket pendant lamp,['bamboo basket pendant lamp_1']
+Tell me the total number of bamboo basket pendant lamps.,1,bamboo basket pendant lamp,['bamboo basket pendant lamp_1']
+What is the number of bamboo basket pendant lamps?,1,bamboo basket pendant lamp,['bamboo basket pendant lamp_1']
+Give me the total count of bathroom doors.,1,bathroom door,['bathroom door_1']
+Can you tell me how many bathroom doors are present?,1,bathroom door,['bathroom door_1']
+How many bathroom doors can be found?,1,bathroom door,['bathroom door_1']
+Tell me the total number of bathroom doors.,1,bathroom door,['bathroom door_1']
+What is the number of bathroom doors?,1,bathroom door,['bathroom door_1']
+Give me the total count of bedroom doors.,1,bedroom door,['bedroom door_1']
+Can you tell me how many bedroom doors are present?,1,bedroom door,['bedroom door_1']
+How many bedroom doors can be found?,1,bedroom door,['bedroom door_1']
+Tell me the total number of bedroom doors.,1,bedroom door,['bedroom door_1']
+What is the number of bedroom doors?,1,bedroom door,['bedroom door_1']
+Give me the total count of bedside tables.,1,bedside table,['bedside table_1']
+Can you tell me how many bedside tables are present?,1,bedside table,['bedside table_1']
+How many bedside tables can be found?,1,bedside table,['bedside table_1']
+Tell me the total number of bedside tables.,1,bedside table,['bedside table_1']
+What is the number of bedside tables?,1,bedside table,['bedside table_1']
+Give me the total count of courtyard doors.,3,courtyard door,"['courtyard door_1', 'courtyard door_2', 'courtyard door_3']"
+Can you tell me how many courtyard doors are present?,3,courtyard door,"['courtyard door_1', 'courtyard door_2', 'courtyard door_3']"
+How many courtyard doors can be found?,3,courtyard door,"['courtyard door_1', 'courtyard door_2', 'courtyard door_3']"
+Tell me the total number of courtyard doors.,3,courtyard door,"['courtyard door_1', 'courtyard door_2', 'courtyard door_3']"
+What is the number of courtyard doors?,3,courtyard door,"['courtyard door_1', 'courtyard door_2', 'courtyard door_3']"
+Give me the total count of courtyard stairs.,1,courtyard stair,['courtyard stair_1']
+Can you tell me how many courtyard stairs are present?,1,courtyard stair,['courtyard stair_1']
+How many courtyard stairs can be found?,1,courtyard stair,['courtyard stair_1']
+Tell me the total number of courtyard stairs.,1,courtyard stair,['courtyard stair_1']
+What is the number of courtyard stairs?,1,courtyard stair,['courtyard stair_1']
+Give me the total count of hemnes drawers.,2,hemnes drawer,"['hemnes drawer_1', 'hemnes drawer_2']"
+Can you tell me how many hemnes drawers are present?,2,hemnes drawer,"['hemnes drawer_1', 'hemnes drawer_2']"
+How many hemnes drawers can be found?,2,hemnes drawer,"['hemnes drawer_1', 'hemnes drawer_2']"
+Tell me the total number of hemnes drawers.,2,hemnes drawer,"['hemnes drawer_1', 'hemnes drawer_2']"
+What is the number of hemnes drawers?,2,hemnes drawer,"['hemnes drawer_1', 'hemnes drawer_2']"
+Give me the total count of hemnes shelfs.,1,hemnes shelf,['hemnes shelf_1']
+Can you tell me how many hemnes shelfs are present?,1,hemnes shelf,['hemnes shelf_1']
+How many hemnes shelfs can be found?,1,hemnes shelf,['hemnes shelf_1']
+Tell me the total number of hemnes shelfs.,1,hemnes shelf,['hemnes shelf_1']
+What is the number of hemnes shelfs?,1,hemnes shelf,['hemnes shelf_1']
+Give me the total count of ikea superfronts.,1,ikea superfront,['ikea superfront_1']
+Can you tell me how many ikea superfronts are present?,1,ikea superfront,['ikea superfront_1']
+How many ikea superfronts can be found?,1,ikea superfront,['ikea superfront_1']
+Tell me the total number of ikea superfronts.,1,ikea superfront,['ikea superfront_1']
+What is the number of ikea superfronts?,1,ikea superfront,['ikea superfront_1']
+Give me the total count of ikea superfront mirrors.,1,ikea superfront mirror,['ikea superfront mirror_1']
+Can you tell me how many ikea superfront mirrors are present?,1,ikea superfront mirror,['ikea superfront mirror_1']
+How many ikea superfront mirrors can be found?,1,ikea superfront mirror,['ikea superfront mirror_1']
+Tell me the total number of ikea superfront mirrors.,1,ikea superfront mirror,['ikea superfront mirror_1']
+What is the number of ikea superfront mirrors?,1,ikea superfront mirror,['ikea superfront mirror_1']
+Give me the total count of kitchens.,1,kitchen,['kitchen_1']
+Can you tell me how many kitchens are present?,1,kitchen,['kitchen_1']
+How many kitchens can be found?,1,kitchen,['kitchen_1']
+Tell me the total number of kitchens.,1,kitchen,['kitchen_1']
+What is the number of kitchens?,1,kitchen,['kitchen_1']
+Give me the total count of kitchen accessorys.,1,kitchen accessory,['kitchen accessory_1']
+Can you tell me how many kitchen accessorys are present?,1,kitchen accessory,['kitchen accessory_1']
+How many kitchen accessorys can be found?,1,kitchen accessory,['kitchen accessory_1']
+Tell me the total number of kitchen accessorys.,1,kitchen accessory,['kitchen accessory_1']
+What is the number of kitchen accessorys?,1,kitchen accessory,['kitchen accessory_1']
+Give me the total count of kitchen hoods.,1,kitchen hood,['kitchen hood_1']
+Can you tell me how many kitchen hoods are present?,1,kitchen hood,['kitchen hood_1']
+How many kitchen hoods can be found?,1,kitchen hood,['kitchen hood_1']
+Tell me the total number of kitchen hoods.,1,kitchen hood,['kitchen hood_1']
+What is the number of kitchen hoods?,1,kitchen hood,['kitchen hood_1']
+Give me the total count of knods.,2,knod,"['knod_1', 'knod_2']"
+Can you tell me how many knods are present?,2,knod,"['knod_1', 'knod_2']"
+How many knods can be found?,2,knod,"['knod_1', 'knod_2']"
+Tell me the total number of knods.,2,knod,"['knod_1', 'knod_2']"
+What is the number of knods?,2,knod,"['knod_1', 'knod_2']"
+Give me the total count of low round tables.,1,low round table,['low round table_1']
+Can you tell me how many low round tables are present?,1,low round table,['low round table_1']
+How many low round tables can be found?,1,low round table,['low round table_1']
+Tell me the total number of low round tables.,1,low round table,['low round table_1']
+What is the number of low round tables?,1,low round table,['low round table_1']
+Give me the total count of macs.,1,mac,['mac_1']
+Can you tell me how many macs are present?,1,mac,['mac_1']
+How many macs can be found?,1,mac,['mac_1']
+Tell me the total number of macs.,1,mac,['mac_1']
+What is the number of macs?,1,mac,['mac_1']
+Give me the total count of mac keyboards.,1,mac keyboard,['mac keyboard_1']
+Can you tell me how many mac keyboards are present?,1,mac keyboard,['mac keyboard_1']
+How many mac keyboards can be found?,1,mac keyboard,['mac keyboard_1']
+Tell me the total number of mac keyboards.,1,mac keyboard,['mac keyboard_1']
+What is the number of mac keyboards?,1,mac keyboard,['mac keyboard_1']
+Give me the total count of mac mouses.,1,mac mouse,['mac mouse_1']
+Can you tell me how many mac mouses are present?,1,mac mouse,['mac mouse_1']
+How many mac mouses can be found?,1,mac mouse,['mac mouse_1']
+Tell me the total number of mac mouses.,1,mac mouse,['mac mouse_1']
+What is the number of mac mouses?,1,mac mouse,['mac mouse_1']
+Give me the total count of mirrors.,1,mirror,['mirror_1']
+Can you tell me how many mirrors are present?,1,mirror,['mirror_1']
+How many mirrors can be found?,1,mirror,['mirror_1']
+Tell me the total number of mirrors.,1,mirror,['mirror_1']
+What is the number of mirrors?,1,mirror,['mirror_1']
+Give me the total count of relax room doors.,1,relax room door,['relax room door_1']
+Can you tell me how many relax room doors are present?,1,relax room door,['relax room door_1']
+How many relax room doors can be found?,1,relax room door,['relax room door_1']
+Tell me the total number of relax room doors.,1,relax room door,['relax room door_1']
+What is the number of relax room doors?,1,relax room door,['relax room door_1']
+Give me the total count of selias.,2,selia,"['selia_1', 'selia_2']"
+Can you tell me how many selias are present?,2,selia,"['selia_1', 'selia_2']"
+How many selias can be found?,2,selia,"['selia_1', 'selia_2']"
+Tell me the total number of selias.,2,selia,"['selia_1', 'selia_2']"
+What is the number of selias?,2,selia,"['selia_1', 'selia_2']"
+Give me the total count of showers.,1,shower,['shower_1']
+Can you tell me how many showers are present?,1,shower,['shower_1']
+How many showers can be found?,1,shower,['shower_1']
+Tell me the total number of showers.,1,shower,['shower_1']
+What is the number of showers?,1,shower,['shower_1']
+Give me the total count of stairs.,1,stair,['stair_1']
+Can you tell me how many stairs are present?,1,stair,['stair_1']
+How many stairs can be found?,1,stair,['stair_1']
+Tell me the total number of stairs.,1,stair,['stair_1']
+What is the number of stairs?,1,stair,['stair_1']
+Give me the total count of toilets.,1,toilet,['toilet_1']
+Can you tell me how many toilets are present?,1,toilet,['toilet_1']
+How many toilets can be found?,1,toilet,['toilet_1']
+Tell me the total number of toilets.,1,toilet,['toilet_1']
+What is the number of toilets?,1,toilet,['toilet_1']
+Give me the total count of towels.,4,towel,"['towel_1', 'towel_2', 'towel_3', 'towel_4']"
+Can you tell me how many towels are present?,4,towel,"['towel_1', 'towel_2', 'towel_3', 'towel_4']"
+How many towels can be found?,4,towel,"['towel_1', 'towel_2', 'towel_3', 'towel_4']"
+Tell me the total number of towels.,4,towel,"['towel_1', 'towel_2', 'towel_3', 'towel_4']"
+What is the number of towels?,4,towel,"['towel_1', 'towel_2', 'towel_3', 'towel_4']"

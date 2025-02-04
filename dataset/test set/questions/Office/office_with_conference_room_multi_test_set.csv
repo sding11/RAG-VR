@@ -1,0 +1,91 @@
+Questions,Standard answers,Retrieved Tag,Retrieved Name
+Give me the total count of cabinets.,4,cabinet,"['cabinet_1', 'cabinet_2', 'cabinet_3', 'cabinet_4']"
+Can you tell me how many cabinets are present?,4,cabinet,"['cabinet_1', 'cabinet_2', 'cabinet_3', 'cabinet_4']"
+How many cabinets can be found?,4,cabinet,"['cabinet_1', 'cabinet_2', 'cabinet_3', 'cabinet_4']"
+Tell me the total number of cabinets.,4,cabinet,"['cabinet_1', 'cabinet_2', 'cabinet_3', 'cabinet_4']"
+What is the number of cabinets?,4,cabinet,"['cabinet_1', 'cabinet_2', 'cabinet_3', 'cabinet_4']"
+Give me the total count of clocks.,1,clock,['clock_1']
+Can you tell me how many clocks are present?,1,clock,['clock_1']
+How many clocks can be found?,1,clock,['clock_1']
+Tell me the total number of clocks.,1,clock,['clock_1']
+What is the number of clocks?,1,clock,['clock_1']
+Give me the total count of coffee machines.,1,coffee machine,['coffee machine_1']
+Can you tell me how many coffee machines are present?,1,coffee machine,['coffee machine_1']
+How many coffee machines can be found?,1,coffee machine,['coffee machine_1']
+Tell me the total number of coffee machines.,1,coffee machine,['coffee machine_1']
+What is the number of coffee machines?,1,coffee machine,['coffee machine_1']
+Give me the total count of cork boards.,1,cork board,['cork board_1']
+Can you tell me how many cork boards are present?,1,cork board,['cork board_1']
+How many cork boards can be found?,1,cork board,['cork board_1']
+Tell me the total number of cork boards.,1,cork board,['cork board_1']
+What is the number of cork boards?,1,cork board,['cork board_1']
+Give me the total count of couple kiss decorations.,1,couple kiss decoration,['couple kiss decoration_1']
+Can you tell me how many couple kiss decorations are present?,1,couple kiss decoration,['couple kiss decoration_1']
+How many couple kiss decorations can be found?,1,couple kiss decoration,['couple kiss decoration_1']
+Tell me the total number of couple kiss decorations.,1,couple kiss decoration,['couple kiss decoration_1']
+What is the number of couple kiss decorations?,1,couple kiss decoration,['couple kiss decoration_1']
+Give me the total count of crane birds.,1,crane bird,['crane bird_1']
+Can you tell me how many crane birds are present?,1,crane bird,['crane bird_1']
+How many crane birds can be found?,1,crane bird,['crane bird_1']
+Tell me the total number of crane birds.,1,crane bird,['crane bird_1']
+What is the number of crane birds?,1,crane bird,['crane bird_1']
+Give me the total count of delphins.,1,delphin,['delphin_1']
+Can you tell me how many delphins are present?,1,delphin,['delphin_1']
+How many delphins can be found?,1,delphin,['delphin_1']
+Tell me the total number of delphins.,1,delphin,['delphin_1']
+What is the number of delphins?,1,delphin,['delphin_1']
+Give me the total count of doors.,2,door,"['door_1', 'door_2']"
+Can you tell me how many doors are present?,2,door,"['door_1', 'door_2']"
+How many doors can be found?,2,door,"['door_1', 'door_2']"
+Tell me the total number of doors.,2,door,"['door_1', 'door_2']"
+What is the number of doors?,2,door,"['door_1', 'door_2']"
+Give me the total count of glass frames.,1,glass frame,['glass frame_1']
+Can you tell me how many glass frames are present?,1,glass frame,['glass frame_1']
+How many glass frames can be found?,1,glass frame,['glass frame_1']
+Tell me the total number of glass frames.,1,glass frame,['glass frame_1']
+What is the number of glass frames?,1,glass frame,['glass frame_1']
+Give me the total count of globes.,1,globe,['globe_1']
+Can you tell me how many globes are present?,1,globe,['globe_1']
+How many globes can be found?,1,globe,['globe_1']
+Tell me the total number of globes.,1,globe,['globe_1']
+What is the number of globes?,1,globe,['globe_1']
+Give me the total count of horses.,1,horse,['horse_1']
+Can you tell me how many horses are present?,1,horse,['horse_1']
+How many horses can be found?,1,horse,['horse_1']
+Tell me the total number of horses.,1,horse,['horse_1']
+What is the number of horses?,1,horse,['horse_1']
+Give me the total count of lions.,1,lion,['lion_1']
+Can you tell me how many lions are present?,1,lion,['lion_1']
+How many lions can be found?,1,lion,['lion_1']
+Tell me the total number of lions.,1,lion,['lion_1']
+What is the number of lions?,1,lion,['lion_1']
+Give me the total count of office trays.,2,office tray,"['office tray_1', 'office tray_2']"
+Can you tell me how many office trays are present?,2,office tray,"['office tray_1', 'office tray_2']"
+How many office trays can be found?,2,office tray,"['office tray_1', 'office tray_2']"
+Tell me the total number of office trays.,2,office tray,"['office tray_1', 'office tray_2']"
+What is the number of office trays?,2,office tray,"['office tray_1', 'office tray_2']"
+Give me the total count of paper trays.,5,paper tray,"['paper tray_1', 'paper tray_2', 'paper tray_3', 'paper tray_4', 'paper tray_5']"
+Can you tell me how many paper trays are present?,5,paper tray,"['paper tray_1', 'paper tray_2', 'paper tray_3', 'paper tray_4', 'paper tray_5']"
+How many paper trays can be found?,5,paper tray,"['paper tray_1', 'paper tray_2', 'paper tray_3', 'paper tray_4', 'paper tray_5']"
+Tell me the total number of paper trays.,5,paper tray,"['paper tray_1', 'paper tray_2', 'paper tray_3', 'paper tray_4', 'paper tray_5']"
+What is the number of paper trays?,5,paper tray,"['paper tray_1', 'paper tray_2', 'paper tray_3', 'paper tray_4', 'paper tray_5']"
+Give me the total count of pegasuss.,1,pegasus,['pegasus_1']
+Can you tell me how many pegasuss are present?,1,pegasus,['pegasus_1']
+How many pegasuss can be found?,1,pegasus,['pegasus_1']
+Tell me the total number of pegasuss.,1,pegasus,['pegasus_1']
+What is the number of pegasuss?,1,pegasus,['pegasus_1']
+Give me the total count of plants.,4,plant,"['plant_1', 'plant_2', 'plant_3', 'plant_4']"
+Can you tell me how many plants are present?,4,plant,"['plant_1', 'plant_2', 'plant_3', 'plant_4']"
+How many plants can be found?,4,plant,"['plant_1', 'plant_2', 'plant_3', 'plant_4']"
+Tell me the total number of plants.,4,plant,"['plant_1', 'plant_2', 'plant_3', 'plant_4']"
+What is the number of plants?,4,plant,"['plant_1', 'plant_2', 'plant_3', 'plant_4']"
+Give me the total count of printers.,2,printer,"['printer_1', 'printer_2']"
+Can you tell me how many printers are present?,2,printer,"['printer_1', 'printer_2']"
+How many printers can be found?,2,printer,"['printer_1', 'printer_2']"
+Tell me the total number of printers.,2,printer,"['printer_1', 'printer_2']"
+What is the number of printers?,2,printer,"['printer_1', 'printer_2']"
+Give me the total count of whiteboards.,1,whiteboard,['whiteboard_1']
+Can you tell me how many whiteboards are present?,1,whiteboard,['whiteboard_1']
+How many whiteboards can be found?,1,whiteboard,['whiteboard_1']
+Tell me the total number of whiteboards.,1,whiteboard,['whiteboard_1']
+What is the number of whiteboards?,1,whiteboard,['whiteboard_1']

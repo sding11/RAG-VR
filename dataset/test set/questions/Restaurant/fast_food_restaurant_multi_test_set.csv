@@ -1,0 +1,96 @@
+Questions,Standard answers,Retrieved Tag,Retrieved Name
+Give me the total count of big signs.,1,big sign,['big sign_1']
+Can you tell me how many big signs are present?,1,big sign,['big sign_1']
+How many big signs can be found?,1,big sign,['big sign_1']
+Tell me the total number of big signs.,1,big sign,['big sign_1']
+What is the number of big signs?,1,big sign,['big sign_1']
+Give me the total count of display shelfs.,1,display shelf,['display shelf_1']
+Can you tell me how many display shelfs are present?,1,display shelf,['display shelf_1']
+How many display shelfs can be found?,1,display shelf,['display shelf_1']
+Tell me the total number of display shelfs.,1,display shelf,['display shelf_1']
+What is the number of display shelfs?,1,display shelf,['display shelf_1']
+Give me the total count of handdryers.,2,handdryer,"['handdryer_1', 'handdryer_2']"
+Can you tell me how many handdryers are present?,2,handdryer,"['handdryer_1', 'handdryer_2']"
+How many handdryers can be found?,2,handdryer,"['handdryer_1', 'handdryer_2']"
+Tell me the total number of handdryers.,2,handdryer,"['handdryer_1', 'handdryer_2']"
+What is the number of handdryers?,2,handdryer,"['handdryer_1', 'handdryer_2']"
+Give me the total count of men's rooms.,1,men's room,"[""men's room_1""]"
+Can you tell me how many men's rooms are present?,1,men's room,"[""men's room_1""]"
+How many men's rooms can be found?,1,men's room,"[""men's room_1""]"
+Tell me the total number of men's rooms.,1,men's room,"[""men's room_1""]"
+What is the number of men's rooms?,1,men's room,"[""men's room_1""]"
+Give me the total count of mirrors.,2,mirror,"['mirror_1', 'mirror_2']"
+Can you tell me how many mirrors are present?,2,mirror,"['mirror_1', 'mirror_2']"
+How many mirrors can be found?,2,mirror,"['mirror_1', 'mirror_2']"
+Tell me the total number of mirrors.,2,mirror,"['mirror_1', 'mirror_2']"
+What is the number of mirrors?,2,mirror,"['mirror_1', 'mirror_2']"
+Give me the total count of paper towel dispensers.,2,paper towel dispenser,"['paper towel dispenser_1', 'paper towel dispenser_2']"
+Can you tell me how many paper towel dispensers are present?,2,paper towel dispenser,"['paper towel dispenser_1', 'paper towel dispenser_2']"
+How many paper towel dispensers can be found?,2,paper towel dispenser,"['paper towel dispenser_1', 'paper towel dispenser_2']"
+Tell me the total number of paper towel dispensers.,2,paper towel dispenser,"['paper towel dispenser_1', 'paper towel dispenser_2']"
+What is the number of paper towel dispensers?,2,paper towel dispenser,"['paper towel dispenser_1', 'paper towel dispenser_2']"
+Give me the total count of payment devices.,2,payment device,"['payment device_1', 'payment device_2']"
+Can you tell me how many payment devices are present?,2,payment device,"['payment device_1', 'payment device_2']"
+How many payment devices can be found?,2,payment device,"['payment device_1', 'payment device_2']"
+Tell me the total number of payment devices.,2,payment device,"['payment device_1', 'payment device_2']"
+What is the number of payment devices?,2,payment device,"['payment device_1', 'payment device_2']"
+Give me the total count of receipt printers.,2,receipt printer,"['receipt printer_1', 'receipt printer_2']"
+Can you tell me how many receipt printers are present?,2,receipt printer,"['receipt printer_1', 'receipt printer_2']"
+How many receipt printers can be found?,2,receipt printer,"['receipt printer_1', 'receipt printer_2']"
+Tell me the total number of receipt printers.,2,receipt printer,"['receipt printer_1', 'receipt printer_2']"
+What is the number of receipt printers?,2,receipt printer,"['receipt printer_1', 'receipt printer_2']"
+Give me the total count of registers.,2,register,"['register_1', 'register_2']"
+Can you tell me how many registers are present?,2,register,"['register_1', 'register_2']"
+How many registers can be found?,2,register,"['register_1', 'register_2']"
+Tell me the total number of registers.,2,register,"['register_1', 'register_2']"
+What is the number of registers?,2,register,"['register_1', 'register_2']"
+Give me the total count of self-checkout kiosks.,1,self-checkout kiosk,['self-checkout kiosk_1']
+Can you tell me how many self-checkout kiosks are present?,1,self-checkout kiosk,['self-checkout kiosk_1']
+How many self-checkout kiosks can be found?,1,self-checkout kiosk,['self-checkout kiosk_1']
+Tell me the total number of self-checkout kiosks.,1,self-checkout kiosk,['self-checkout kiosk_1']
+What is the number of self-checkout kiosks?,1,self-checkout kiosk,['self-checkout kiosk_1']
+Give me the total count of service plates.,2,service plate,"['service plate_1', 'service plate_2']"
+Can you tell me how many service plates are present?,2,service plate,"['service plate_1', 'service plate_2']"
+How many service plates can be found?,2,service plate,"['service plate_1', 'service plate_2']"
+Tell me the total number of service plates.,2,service plate,"['service plate_1', 'service plate_2']"
+What is the number of service plates?,2,service plate,"['service plate_1', 'service plate_2']"
+Give me the total count of sinks.,2,sink,"['sink_1', 'sink_2']"
+Can you tell me how many sinks are present?,2,sink,"['sink_1', 'sink_2']"
+How many sinks can be found?,2,sink,"['sink_1', 'sink_2']"
+Tell me the total number of sinks.,2,sink,"['sink_1', 'sink_2']"
+What is the number of sinks?,2,sink,"['sink_1', 'sink_2']"
+Give me the total count of soap dispensers.,2,soap dispenser,"['soap dispenser_1', 'soap dispenser_2']"
+Can you tell me how many soap dispensers are present?,2,soap dispenser,"['soap dispenser_1', 'soap dispenser_2']"
+How many soap dispensers can be found?,2,soap dispenser,"['soap dispenser_1', 'soap dispenser_2']"
+Tell me the total number of soap dispensers.,2,soap dispenser,"['soap dispenser_1', 'soap dispenser_2']"
+What is the number of soap dispensers?,2,soap dispenser,"['soap dispenser_1', 'soap dispenser_2']"
+Give me the total count of toilets.,2,toilet,"['toilet_1', 'toilet_2']"
+Can you tell me how many toilets are present?,2,toilet,"['toilet_1', 'toilet_2']"
+How many toilets can be found?,2,toilet,"['toilet_1', 'toilet_2']"
+Tell me the total number of toilets.,2,toilet,"['toilet_1', 'toilet_2']"
+What is the number of toilets?,2,toilet,"['toilet_1', 'toilet_2']"
+Give me the total count of trash bins.,1,trash bin,['trash bin_1']
+Can you tell me how many trash bins are present?,1,trash bin,['trash bin_1']
+How many trash bins can be found?,1,trash bin,['trash bin_1']
+Tell me the total number of trash bins.,1,trash bin,['trash bin_1']
+What is the number of trash bins?,1,trash bin,['trash bin_1']
+Give me the total count of trays.,4,tray,"['tray_1', 'tray_2', 'tray_3', 'tray_4']"
+Can you tell me how many trays are present?,4,tray,"['tray_1', 'tray_2', 'tray_3', 'tray_4']"
+How many trays can be found?,4,tray,"['tray_1', 'tray_2', 'tray_3', 'tray_4']"
+Tell me the total number of trays.,4,tray,"['tray_1', 'tray_2', 'tray_3', 'tray_4']"
+What is the number of trays?,4,tray,"['tray_1', 'tray_2', 'tray_3', 'tray_4']"
+Give me the total count of urinals.,1,urinal,['urinal_1']
+Can you tell me how many urinals are present?,1,urinal,['urinal_1']
+How many urinals can be found?,1,urinal,['urinal_1']
+Tell me the total number of urinals.,1,urinal,['urinal_1']
+What is the number of urinals?,1,urinal,['urinal_1']
+Give me the total count of water drinking machines.,1,water drinking machine,['water drinking machine_1']
+Can you tell me how many water drinking machines are present?,1,water drinking machine,['water drinking machine_1']
+How many water drinking machines can be found?,1,water drinking machine,['water drinking machine_1']
+Tell me the total number of water drinking machines.,1,water drinking machine,['water drinking machine_1']
+What is the number of water drinking machines?,1,water drinking machine,['water drinking machine_1']
+Give me the total count of women's rooms.,1,women's room,"[""women's room_1""]"
+Can you tell me how many women's rooms are present?,1,women's room,"[""women's room_1""]"
+How many women's rooms can be found?,1,women's room,"[""women's room_1""]"
+Tell me the total number of women's rooms.,1,women's room,"[""women's room_1""]"
+What is the number of women's rooms?,1,women's room,"[""women's room_1""]"

@@ -1,0 +1,91 @@
+Questions,Standard answers,Retrieved Tag,Retrieved Name
+Give me the total count of brown chocolates.,2,brown chocolate,"['brown chocolate_1', 'brown chocolate_2']"
+Can you tell me how many brown chocolates are present?,2,brown chocolate,"['brown chocolate_1', 'brown chocolate_2']"
+How many brown chocolates can be found?,2,brown chocolate,"['brown chocolate_1', 'brown chocolate_2']"
+Tell me the total number of brown chocolates.,2,brown chocolate,"['brown chocolate_1', 'brown chocolate_2']"
+What is the number of brown chocolates?,2,brown chocolate,"['brown chocolate_1', 'brown chocolate_2']"
+Give me the total count of cash registers.,1,cash register,['cash register_1']
+Can you tell me how many cash registers are present?,1,cash register,['cash register_1']
+How many cash registers can be found?,1,cash register,['cash register_1']
+Tell me the total number of cash registers.,1,cash register,['cash register_1']
+What is the number of cash registers?,1,cash register,['cash register_1']
+Give me the total count of chipboxs.,2,chipbox,"['chipbox_1', 'chipbox_2']"
+Can you tell me how many chipboxs are present?,2,chipbox,"['chipbox_1', 'chipbox_2']"
+How many chipboxs can be found?,2,chipbox,"['chipbox_1', 'chipbox_2']"
+Tell me the total number of chipboxs.,2,chipbox,"['chipbox_1', 'chipbox_2']"
+What is the number of chipboxs?,2,chipbox,"['chipbox_1', 'chipbox_2']"
+Give me the total count of chocolate ice cream posters.,1,chocolate ice cream poster,['chocolate ice cream poster_1']
+Can you tell me how many chocolate ice cream posters are present?,1,chocolate ice cream poster,['chocolate ice cream poster_1']
+How many chocolate ice cream posters can be found?,1,chocolate ice cream poster,['chocolate ice cream poster_1']
+Tell me the total number of chocolate ice cream posters.,1,chocolate ice cream poster,['chocolate ice cream poster_1']
+What is the number of chocolate ice cream posters?,1,chocolate ice cream poster,['chocolate ice cream poster_1']
+Give me the total count of coffee posters.,1,coffee poster,['coffee poster_1']
+Can you tell me how many coffee posters are present?,1,coffee poster,['coffee poster_1']
+How many coffee posters can be found?,1,coffee poster,['coffee poster_1']
+Tell me the total number of coffee posters.,1,coffee poster,['coffee poster_1']
+What is the number of coffee posters?,1,coffee poster,['coffee poster_1']
+Give me the total count of counters.,1,counter,['counter_1']
+Can you tell me how many counters are present?,1,counter,['counter_1']
+How many counters can be found?,1,counter,['counter_1']
+Tell me the total number of counters.,1,counter,['counter_1']
+What is the number of counters?,1,counter,['counter_1']
+Give me the total count of doors.,2,door,"['door_1', 'door_2']"
+Can you tell me how many doors are present?,2,door,"['door_1', 'door_2']"
+How many doors can be found?,2,door,"['door_1', 'door_2']"
+Tell me the total number of doors.,2,door,"['door_1', 'door_2']"
+What is the number of doors?,2,door,"['door_1', 'door_2']"
+Give me the total count of double doors.,2,double door,"['double door_1', 'double door_2']"
+Can you tell me how many double doors are present?,2,double door,"['double door_1', 'double door_2']"
+How many double doors can be found?,2,double door,"['double door_1', 'double door_2']"
+Tell me the total number of double doors.,2,double door,"['double door_1', 'double door_2']"
+What is the number of double doors?,2,double door,"['double door_1', 'double door_2']"
+Give me the total count of ice cream posters.,1,ice cream poster,['ice cream poster_1']
+Can you tell me how many ice cream posters are present?,1,ice cream poster,['ice cream poster_1']
+How many ice cream posters can be found?,1,ice cream poster,['ice cream poster_1']
+Tell me the total number of ice cream posters.,1,ice cream poster,['ice cream poster_1']
+What is the number of ice cream posters?,1,ice cream poster,['ice cream poster_1']
+Give me the total count of lemon posters.,1,lemon poster,['lemon poster_1']
+Can you tell me how many lemon posters are present?,1,lemon poster,['lemon poster_1']
+How many lemon posters can be found?,1,lemon poster,['lemon poster_1']
+Tell me the total number of lemon posters.,1,lemon poster,['lemon poster_1']
+What is the number of lemon posters?,1,lemon poster,['lemon poster_1']
+Give me the total count of sale posters.,1,sale poster,['sale poster_1']
+Can you tell me how many sale posters are present?,1,sale poster,['sale poster_1']
+How many sale posters can be found?,1,sale poster,['sale poster_1']
+Tell me the total number of sale posters.,1,sale poster,['sale poster_1']
+What is the number of sale posters?,1,sale poster,['sale poster_1']
+Give me the total count of sidetables.,4,sidetable,"['sidetable_1', 'sidetable_2', 'sidetable_3', 'sidetable_4']"
+Can you tell me how many sidetables are present?,4,sidetable,"['sidetable_1', 'sidetable_2', 'sidetable_3', 'sidetable_4']"
+How many sidetables can be found?,4,sidetable,"['sidetable_1', 'sidetable_2', 'sidetable_3', 'sidetable_4']"
+Tell me the total number of sidetables.,4,sidetable,"['sidetable_1', 'sidetable_2', 'sidetable_3', 'sidetable_4']"
+What is the number of sidetables?,4,sidetable,"['sidetable_1', 'sidetable_2', 'sidetable_3', 'sidetable_4']"
+Give me the total count of small shelfs.,4,small shelf,"['small shelf_1', 'small shelf_2', 'small shelf_3', 'small shelf_4']"
+Can you tell me how many small shelfs are present?,4,small shelf,"['small shelf_1', 'small shelf_2', 'small shelf_3', 'small shelf_4']"
+How many small shelfs can be found?,4,small shelf,"['small shelf_1', 'small shelf_2', 'small shelf_3', 'small shelf_4']"
+Tell me the total number of small shelfs.,4,small shelf,"['small shelf_1', 'small shelf_2', 'small shelf_3', 'small shelf_4']"
+What is the number of small shelfs?,4,small shelf,"['small shelf_1', 'small shelf_2', 'small shelf_3', 'small shelf_4']"
+Give me the total count of vending machines.,2,vending machine,"['vending machine_1', 'vending machine_2']"
+Can you tell me how many vending machines are present?,2,vending machine,"['vending machine_1', 'vending machine_2']"
+How many vending machines can be found?,2,vending machine,"['vending machine_1', 'vending machine_2']"
+Tell me the total number of vending machines.,2,vending machine,"['vending machine_1', 'vending machine_2']"
+What is the number of vending machines?,2,vending machine,"['vending machine_1', 'vending machine_2']"
+Give me the total count of water bottles.,4,water bottle,"['water bottle_1', 'water bottle_2', 'water bottle_3', 'water bottle_4']"
+Can you tell me how many water bottles are present?,4,water bottle,"['water bottle_1', 'water bottle_2', 'water bottle_3', 'water bottle_4']"
+How many water bottles can be found?,4,water bottle,"['water bottle_1', 'water bottle_2', 'water bottle_3', 'water bottle_4']"
+Tell me the total number of water bottles.,4,water bottle,"['water bottle_1', 'water bottle_2', 'water bottle_3', 'water bottle_4']"
+What is the number of water bottles?,4,water bottle,"['water bottle_1', 'water bottle_2', 'water bottle_3', 'water bottle_4']"
+Give me the total count of welcome signboards.,1,welcome signboard,['welcome signboard_1']
+Can you tell me how many welcome signboards are present?,1,welcome signboard,['welcome signboard_1']
+How many welcome signboards can be found?,1,welcome signboard,['welcome signboard_1']
+Tell me the total number of welcome signboards.,1,welcome signboard,['welcome signboard_1']
+What is the number of welcome signboards?,1,welcome signboard,['welcome signboard_1']
+Give me the total count of white chocolates.,2,white chocolate,"['white chocolate_1', 'white chocolate_2']"
+Can you tell me how many white chocolates are present?,2,white chocolate,"['white chocolate_1', 'white chocolate_2']"
+How many white chocolates can be found?,2,white chocolate,"['white chocolate_1', 'white chocolate_2']"
+Tell me the total number of white chocolates.,2,white chocolate,"['white chocolate_1', 'white chocolate_2']"
+What is the number of white chocolates?,2,white chocolate,"['white chocolate_1', 'white chocolate_2']"
+Give me the total count of yellow chocolates.,2,yellow chocolate,"['yellow chocolate_1', 'yellow chocolate_2']"
+Can you tell me how many yellow chocolates are present?,2,yellow chocolate,"['yellow chocolate_1', 'yellow chocolate_2']"
+How many yellow chocolates can be found?,2,yellow chocolate,"['yellow chocolate_1', 'yellow chocolate_2']"
+Tell me the total number of yellow chocolates.,2,yellow chocolate,"['yellow chocolate_1', 'yellow chocolate_2']"
+What is the number of yellow chocolates?,2,yellow chocolate,"['yellow chocolate_1', 'yellow chocolate_2']"
