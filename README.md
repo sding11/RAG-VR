@@ -49,8 +49,8 @@ a. Download the necessary packages
 !pip install openpyxl --upgrade
 !pip install scikit-learn
 
-b. run"train.py" in "main experience" folder.
+b. Run"train.py" in "main experience" folder.
 
 ### Testing
 
-c. run "test.py" in "main experience" folder.
+c. Run "test.py" in "main experience" folder.
