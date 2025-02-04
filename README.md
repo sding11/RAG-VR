@@ -10,6 +10,7 @@ This repository code implements the functionality of the RAG-VR system.
 * VR device: Meta Quest 3
 * Edge server: NVIDIA RTX 2000 Ada GPU
 * Unity editor version: 2022.3.52f1
+* LLM: llama3.1：8b
 
 ## Implementation of Demo
 ### Unity Setup
@@ -39,5 +40,17 @@ k. Click the button on the UI interface according to the prompt to start and end
 
 ## Implementation of Main Experience
 ### Training
+a. Download the necessary packages
+!pip install langchain langchain_experimental langchain-groq --use-deprecated=legacy-resolver
+%pip install -U langchain-ollama
+!pip install faiss-cpu
+!pip install transformers
+!pip install pandas --upgrade
+!pip install openpyxl --upgrade
+!pip install scikit-learn
+
+b. run"train.py" in "main experience" folder.
 
 ### Testing
+
+c. run "test.py" in "main experience" folder.
