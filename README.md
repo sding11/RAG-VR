@@ -19,7 +19,7 @@ b. Navigate to Window>Asset Store.  Search for the virtual reality game (e.g., t
 
 c. In the Hierarchy Window, select the game objects that may be queried. In the Inspector view on the right, click "Add Tag" in the drop-down option of the "Tag" box and click "+" to create the Tag. Then, give each selected object one of these new tags.
 
-d. Create the "Scripts" folder under the project's "Assets" folder. Save the GetMainCameraInfo.cs, GetObjectInformation.cs, PlayerController.cs, and SpeechRecognitionTest.cs files to the "Scripts" folder
+d. Create the "Scripts" folder under the project's "Assets" folder. Save the GetMainCameraInfo.cs, GetObjectInformation.cs, PlayerController.cs, and SpeechRecognitionTest.cs files to the "Scripts" folder. In the "SpeechRecognitionTest.cs", modify the "serverUrl" to the current IPv4 address.
 
 e. Create four new GameObjects in the Hierarchy Window and bind the imported C# scripts to each GameObject.
 
