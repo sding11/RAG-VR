@@ -1,6 +1,6 @@
 This repository code implements the functionality of the RAG-VR system.
 # Outline
-![](https://raw.githubusercontent.com/sding11/RAG-VR/refs/heads/main/UI.png)
+![](https://raw.githubusercontent.com/sding11/RAG-VR/refs/heads/main/teaser.png)
 
 ## Testing Setup
 * VR device: Meta Quest 3
