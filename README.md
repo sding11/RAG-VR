@@ -10,7 +10,7 @@ This repository code implements the functionality of the RAG-VR system.
 * VR device: Meta Quest 3
 * Edge server GPU: NVIDIA RTX 2000 Ada
 * Unity editor version: 2022.3.52f1
-* LLM: llama3.1：8b
+* LLM:llama3.1:8b
 
 ## Implementation of Dataset-based Evaluation
 ### Training
