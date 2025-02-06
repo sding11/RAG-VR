@@ -41,6 +41,7 @@ k. Click the button on the UI interface according to the prompt to start and end
 ## Implementation of Dataset-based Evaluation
 ### Training
 a. Download the necessary packages
+```
 !pip install langchain langchain_experimental langchain-groq --use-deprecated=legacy-resolver
 %pip install -U langchain-ollama
 !pip install faiss-cpu
@@ -48,7 +49,7 @@ a. Download the necessary packages
 !pip install pandas --upgrade
 !pip install openpyxl --upgrade
 !pip install scikit-learn
-
+```
 b. Run"train.py" in "main experience" folder.
 
 ### Testing
