@@ -43,7 +43,7 @@ k. Click the button on the UI interface according to the prompt to start and end
 a. Download the necessary packages
 ```
 !pip install langchain langchain_experimental langchain-groq --use-deprecated=legacy-resolver
-%pip install -U langchain-ollama
+!pip install -U langchain-ollama
 !pip install faiss-cpu
 !pip install transformers
 !pip install pandas --upgrade
