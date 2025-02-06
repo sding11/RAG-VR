@@ -16,13 +16,13 @@ This repository code implements the functionality of the RAG-VR system.
 ### Training
 a. Download the necessary packages
 ```
-!pip install langchain langchain_experimental langchain-groq --use-deprecated=legacy-resolver
-!pip install -U langchain-ollama
-!pip install faiss-cpu
-!pip install transformers
-!pip install pandas --upgrade
-!pip install openpyxl --upgrade
-!pip install scikit-learn
+pip install langchain langchain_experimental langchain-groq --use-deprecated=legacy-resolver
+pip install -U langchain-ollama
+pip install faiss-cpu
+pip install transformers
+pip install pandas --upgrade
+pip install openpyxl --upgrade
+pip install scikit-learn
 ```
 b. Run"train.py" in "main experience" folder.
 
