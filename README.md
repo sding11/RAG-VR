@@ -12,6 +12,25 @@ This repository code implements the functionality of the RAG-VR system.
 * Unity editor version: 2022.3.52f1
 * LLM: llama3.1：8b
 
+## Implementation of Dataset-based Evaluation
+### Training
+a. Download the necessary packages
+```
+!pip install langchain langchain_experimental langchain-groq --use-deprecated=legacy-resolver
+!pip install -U langchain-ollama
+!pip install faiss-cpu
+!pip install transformers
+!pip install pandas --upgrade
+!pip install openpyxl --upgrade
+!pip install scikit-learn
+```
+b. Run"train.py" in "main experience" folder.
+
+### Testing
+
+c. Run "test.py" in "main experience" folder.
+
+
 ## Implementation of Real-world Testing
 ### Unity Setup
 a. In Unity Hub, create a new 3D Unity project. 
@@ -37,21 +56,3 @@ i. Load the code in the "server" folder on the local server. Select the system y
 j. Disconnect the Meta Quest 3 from the computer. After setting up a new Guardian Boundary, the virtual reality game with RAG-VR will be automatically loaded.
 
 k. Click the button on the UI interface according to the prompt to start and end the query.
-
-## Implementation of Dataset-based Evaluation
-### Training
-a. Download the necessary packages
-```
-!pip install langchain langchain_experimental langchain-groq --use-deprecated=legacy-resolver
-!pip install -U langchain-ollama
-!pip install faiss-cpu
-!pip install transformers
-!pip install pandas --upgrade
-!pip install openpyxl --upgrade
-!pip install scikit-learn
-```
-b. Run"train.py" in "main experience" folder.
-
-### Testing
-
-c. Run "test.py" in "main experience" folder.
