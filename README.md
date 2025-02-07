@@ -24,11 +24,11 @@ pip install pandas --upgrade
 pip install openpyxl --upgrade
 pip install scikit-learn
 ```
-b. Run"train.py" in "main experience" folder.
+b. Run"train.py" in "dataset-based evaluation" folder.
 
 ### Testing
 
-c. Run "test.py" in "main experience" folder.
+c. Run "test.py" in "dataset-based evaluation" folder.
 
 
 ## Implementation of Real-world Testing
