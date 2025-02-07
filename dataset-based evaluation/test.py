@@ -5,6 +5,26 @@ import pandas as pd
 import json
 from langchain_ollama import OllamaLLM
 from torch.nn.functional import normalize
+import torch.nn as nn
+import torch.nn.functional as F
+from transformers import DistilBertTokenizer, DistilBertModel, AdamW, get_scheduler
+
+
+class DualTowerModel(nn.Module):
+    def __init__(self):
+        super(DualTowerModel, self).__init__()
+        self.query_encoder = DistilBertModel.from_pretrained("distilbert-base-uncased")
+        self.doc_encoder = DistilBertModel.from_pretrained("distilbert-base-uncased")
+        self.fc = nn.Linear(self.query_encoder.config.hidden_size, 128)
+
+    def forward(self, query_input_ids, query_attention_mask, doc_input_ids, doc_attention_mask):
+        query_hidden = self.query_encoder(query_input_ids, attention_mask=query_attention_mask)[0][:, 0, :]
+        query_embeds = F.normalize(self.fc(query_hidden), p=2, dim=1)
+
+        doc_hidden = self.doc_encoder(doc_input_ids, attention_mask=doc_attention_mask)[0][:, 0, :]
+        doc_embeds = F.normalize(self.fc(doc_hidden), p=2, dim=1)
+
+        return query_embeds, doc_embeds
 
 # Load the dual-tower model
 def load_dual_tower_model(model_path, device):
@@ -119,48 +139,126 @@ def rag_pipeline(question, documents, dual_tower_model, tokenizer, llm, device, 
 
     return question, answer, top_k_indices, similarities
 
-# Example execution
+
+def read_all_scene_info_csv_files(input_dir):
+    dataframes = []
+    file_names = []
+
+    for scene_folder in os.listdir(input_dir):
+        scene_folder_path = os.path.join(input_dir, scene_folder)
+
+        if os.path.isdir(scene_folder_path):
+            for file_name in os.listdir(scene_folder_path):
+                if file_name.endswith(f"{scene_folder}_input_info.csv"):
+                    file_path = os.path.join(scene_folder_path, file_name)
+                    
+                    try:
+                        df = pd.read_csv(file_path)
+                        if 'Index' in df.columns:
+                            df = df.drop(columns=['Index'])
+                        dataframes.append(df)
+                        file_names.append(file_path)
+                        print(f"Successfully read: {file_path}")
+                    except Exception as e:
+                        print(f"Failed to read {file_path}: {e}")
+
+    return dataframes, file_names
+
+
+def read_single_test_sets_csv_files(input_dir):
+    dataframes = []
+    file_names = []
+
+    for scene_folder in os.listdir(input_dir):
+        scene_folder_path = os.path.join(input_dir, scene_folder)
+
+        if os.path.isdir(scene_folder_path):
+            for file_name in os.listdir(scene_folder_path):
+                if file_name.endswith(f"{scene_folder}_single_test_set.csv"):
+                    file_path = os.path.join(scene_folder_path, file_name)
+                    
+                    try:
+                        df = pd.read_csv(file_path)
+                        if 'Index' in df.columns:
+                            df = df.drop(columns=['Index'])
+                        dataframes.append(df)
+                        file_names.append(file_path)
+                        print(f"Successfully read: {file_path}")
+                    except Exception as e:
+                        print(f"Failed to read {file_path}: {e}")
+
+    return dataframes, file_names
+
+
+def read_multi_test_sets_csv_files(input_dir):
+    dataframes = []
+    file_names = []
+
+    for scene_folder in os.listdir(input_dir):
+        scene_folder_path = os.path.join(input_dir, scene_folder)
+
+        if os.path.isdir(scene_folder_path):
+            for file_name in os.listdir(scene_folder_path):
+                if file_name.endswith(f"{scene_folder}_multi_test_set.csv"):
+                    file_path = os.path.join(scene_folder_path, file_name)
+                    
+                    try:
+                        df = pd.read_csv(file_path)
+                        if 'Index' in df.columns:
+                            df = df.drop(columns=['Index'])
+                        dataframes.append(df)
+                        file_names.append(file_path)
+                        print(f"Successfully read: {file_path}")
+                    except Exception as e:
+                        print(f"Failed to read {file_path}: {e}")
+
+    return dataframes, file_names
+
+
 if __name__ == "__main__":
-    # Initialize LLM
     llm = OllamaLLM(model="llama3.1:8b")
     tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
     
-    output_dir = "test_result/rag_vr/single"
+    input_scene_dir = "./dataset/test set/scene knowledge"
+    single_output_dir = "test_result/rag_vr/single"
+    multi_output_dir = "test_result/rag_vr/multi"
+    
+    all_scene_dataframes, all_scene_file_paths = read_all_scene_info_csv_files(input_scene_dir)
+    num_scenes = len(all_scene_dataframes)
+    
+    single_test_set_dataframes, single_test_set_file_paths = read_single_test_sets_csv_files(input_scene_dir)
+    multi_test_set_dataframes, multi_test_set_file_paths = read_multi_test_sets_csv_files(input_scene_dir)
 
-    # Assuming `documents` is a DataFrame containing Name, Type, etc.
-    for j in range(1):
-        i = 
+    # single-questions test
+    for i in range(num_scenes):
         documents = all_scene_dataframes[i]
-        test_set = test_set_dataframes[i]
+        test_set = single_test_set_dataframes[i]
         questions = test_set["Questions"].tolist()
         standard_answers = test_set["Standard answers"].tolist()
         standard_retrieved_name = test_set["Retrieved Name"].tolist()
-    
-        scene_name = all_scene_dataframes[i]["Scene"][0]
-    
-        dual_tower_model_path = f"C:/Users/sding1/aaa_AR+LLM/RAG_VR/train/{scene_name}/{scene_name}_dual_tower_model.pth"
+
+        scene_name = all_scene_dataframes[i]["Scene"][3]
+
+        dual_tower_model_path = f"./dataset/training set/Office/office_with_conference_room_dual_tower_model.pth"
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         dual_tower_model = load_dual_tower_model(dual_tower_model_path, device)
-    
-        # Store results for each question
+
         results = {
             "Question": [],
             "Answer": [],
             "Retrieved Object Name": [],
             "Similarities": [],
-            "Standard Answer": [],  # Add standard answer
-            "Standard Retrieved Name": []  # Add standard retrieved object name
+            "Standard Answer": [],
+            "Standard Retrieved Name": []
         }
-    
-        # Iterate through questions, standard answers, and standard retrieved names
+
         index_code = 0
         for question, std_answer, std_retrieved_name in zip(questions, standard_answers, standard_retrieved_name):
-            # Execute RAG pipeline
             question, answer, top_k_indices, similarities = rag_pipeline(
-                question, documents, dual_tower_model, tokenizer, llm, device, k=10
+                question, documents, dual_tower_model, tokenizer, llm, device, k=6
             )
             print(f"{index_code}: Q:{question}--> A:{answer}")
-            # Store results
+
             results["Question"].append(question)
             results["Answer"].append(answer)
             results["Retrieved Object Name"].append(top_k_indices)
@@ -168,6 +266,47 @@ if __name__ == "__main__":
             results["Standard Answer"].append(std_answer)
             results["Standard Retrieved Name"].append(std_retrieved_name)
             index_code += 1
+
+        save_rag_results(single_output_dir, scene_name, results)
     
-        # Save results for the current scene
-        save_rag_results(output_dir, scene_name, results)
+    # multi-questions test
+    for i in range(num_scenes):
+        documents = all_scene_dataframes[i]
+        test_set = multi_test_set_dataframes[i]
+        questions = test_set["Questions"].tolist()
+        standard_answers = test_set["Standard answers"].tolist()
+        standard_retrieved_name = test_set["Retrieved Name"].tolist()
+
+        scene_name = all_scene_dataframes[i]["Scene"][0]
+
+        dual_tower_model_path = f"./dataset/training set/Office/office_with_conference_room_dual_tower_model.pth"
+        device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        dual_tower_model = load_dual_tower_model(dual_tower_model_path, device)
+
+        results = {
+            "Question": [],
+            "Answer": [],
+            "Retrieved Object Name": [],
+            "Similarities": [],
+            "Standard Answer": [],
+            "Standard Retrieved Name": []
+        }
+
+        index_code = 0
+        for question, std_answer, std_retrieved_name in zip(questions, standard_answers, standard_retrieved_name):
+            question, answer, top_k_indices, similarities = rag_pipeline(
+                question, documents, dual_tower_model, tokenizer, llm, device, k=6
+            )
+            print(f"{index_code}: Q:{question}--> A:{answer}")
+
+            results["Question"].append(question)
+            results["Answer"].append(answer)
+            results["Retrieved Object Name"].append(top_k_indices)
+            results["Similarities"].append(json.dumps(similarities))
+            results["Standard Answer"].append(std_answer)
+            results["Standard Retrieved Name"].append(std_retrieved_name)
+            index_code += 1
+
+        save_rag_results(multi_output_dir, scene_name, results)
+
+

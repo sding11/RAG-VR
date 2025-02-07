@@ -5,6 +5,7 @@ import torch.nn.functional as F
 from torch.utils.data import DataLoader, Dataset
 from transformers import DistilBertTokenizer, DistilBertModel, AdamW, get_scheduler
 import random
+import pandas as pd
 
 # Set random seed
 torch.manual_seed(42)
@@ -143,8 +144,53 @@ def train_model(model, train_loader, device, epochs=3):
 def save_model(model, save_path):
     torch.save(model.state_dict(), save_path)
     print(f"Model saved to {save_path}")
+    
+def load_samples_from_folder(folder_path):
+    positive_samples = []
+    negative_samples = []
+    hard_negative_samples = []
 
-# Main function
+    for file_name in os.listdir(folder_path):
+        if not file_name.endswith(".csv"):
+            continue
+
+        file_path = os.path.join(folder_path, file_name)
+
+        if "_multi_positive" in file_name or "_single_positive" in file_name:
+            samples = read_csv_samples(file_path, sample_type="positive")
+            positive_samples.extend(samples)
+        elif "_multi_negative" in file_name or "single_negative" in file_name:
+            samples = read_csv_samples(file_path, sample_type="negative")
+            negative_samples.extend(samples)
+        elif "_single_hardnegative" in file_name:
+            samples = read_csv_samples(file_path, sample_type="hard_negative")
+            hard_negative_samples.extend(samples)
+
+    return positive_samples, negative_samples, hard_negative_samples
+
+def read_csv_samples(file_path, sample_type):
+    df = pd.read_csv(file_path)
+
+    if sample_type == "positive":
+        index_column = "Retrieved Index"
+    elif sample_type == "negative":
+        index_column = "Negative Retrieved Index"
+    elif sample_type == "hard_negative":
+        index_column = "Hard Negative Retrieved Index"
+    else:
+        raise ValueError(f"Unknown sample type: {sample_type}")
+
+    if "Questions" not in df.columns or index_column not in df.columns:
+        raise ValueError(f"CSV file {file_path} must contain 'Questions' and '{index_column}' columns.")
+
+    samples = [
+        (row["Questions"], row[index_column])
+        for _, row in df.iterrows()
+        if not pd.isna(row[index_column])
+    ]
+    return samples
+
+
 def train_and_save_all_models(input_dir):
     for scene_folder in os.listdir(input_dir):
         scene_path = os.path.join(input_dir, scene_folder)
@@ -169,5 +215,5 @@ def train_and_save_all_models(input_dir):
             save_model(model, save_path)
 
 # Run main function
-input_dir = "./train"
+input_dir = "./dataset/training set"
 train_and_save_all_models(input_dir)
