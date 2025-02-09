@@ -149,7 +149,7 @@ def read_all_scene_info_csv_files(input_dir):
 
         if os.path.isdir(scene_folder_path):
             for file_name in os.listdir(scene_folder_path):
-                if file_name.endswith(f"{scene_folder}_input_info.csv"):
+                if file_name.endswith(f"_input_info.csv"):
                     file_path = os.path.join(scene_folder_path, file_name)
                     
                     try:
@@ -174,7 +174,7 @@ def read_single_test_sets_csv_files(input_dir):
 
         if os.path.isdir(scene_folder_path):
             for file_name in os.listdir(scene_folder_path):
-                if file_name.endswith(f"{scene_folder}_single_test_set.csv"):
+                if file_name.endswith(f"_single_test_set.csv"):
                     file_path = os.path.join(scene_folder_path, file_name)
                     
                     try:
@@ -199,7 +199,7 @@ def read_multi_test_sets_csv_files(input_dir):
 
         if os.path.isdir(scene_folder_path):
             for file_name in os.listdir(scene_folder_path):
-                if file_name.endswith(f"{scene_folder}_multi_test_set.csv"):
+                if file_name.endswith(f"_multi_test_set.csv"):
                     file_path = os.path.join(scene_folder_path, file_name)
                     
                     try:
@@ -220,15 +220,16 @@ if __name__ == "__main__":
     tokenizer = DistilBertTokenizer.from_pretrained("distilbert-base-uncased")
     
     input_scene_dir = "./dataset/test set/scene knowledge"
+    questions_dir = "./dataset/test set/questions"
     single_output_dir = "test_result/rag_vr/single"
     multi_output_dir = "test_result/rag_vr/multi"
     
     all_scene_dataframes, all_scene_file_paths = read_all_scene_info_csv_files(input_scene_dir)
     num_scenes = len(all_scene_dataframes)
     
-    single_test_set_dataframes, single_test_set_file_paths = read_single_test_sets_csv_files(input_scene_dir)
-    multi_test_set_dataframes, multi_test_set_file_paths = read_multi_test_sets_csv_files(input_scene_dir)
-
+    single_test_set_dataframes, single_test_set_file_paths = read_single_test_sets_csv_files(questions_dir)
+    multi_test_set_dataframes, multi_test_set_file_paths = read_multi_test_sets_csv_files(questions_dir)
+    
     # single-questions test
     for i in range(num_scenes):
         documents = all_scene_dataframes[i]
@@ -239,7 +240,7 @@ if __name__ == "__main__":
 
         scene_name = all_scene_dataframes[i]["Scene"][3]
 
-        dual_tower_model_path = f"./dataset/training set/Office/office_with_conference_room_dual_tower_model.pth"
+        dual_tower_model_path = f"./dataset/training set/Office/office_dual_tower_model.pth"
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         dual_tower_model = load_dual_tower_model(dual_tower_model_path, device)
 
@@ -279,7 +280,7 @@ if __name__ == "__main__":
 
         scene_name = all_scene_dataframes[i]["Scene"][0]
 
-        dual_tower_model_path = f"./dataset/training set/Office/office_with_conference_room_dual_tower_model.pth"
+        dual_tower_model_path = f"./dataset/training set/Office/office_dual_tower_model.pth"
         device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         dual_tower_model = load_dual_tower_model(dual_tower_model_path, device)
 
@@ -308,5 +309,5 @@ if __name__ == "__main__":
             index_code += 1
 
         save_rag_results(multi_output_dir, scene_name, results)
-
+    
 
