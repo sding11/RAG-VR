@@ -27,8 +27,12 @@ pip install scikit-learn
 b. Run"train.py" in "dataset-based evaluation" folder.
 
 ### Testing
+c. Download Ollama from https://ollama.com/. Then running follow commands to download LLM(llama3.1:8b).
+```
+ollama run llama3.1:8b
+```
 
-c. Run "test.py" in "dataset-based evaluation" folder.
+d. Run "test.py" in "dataset-based evaluation" folder.
 
 
 ## Implementation of Real-world Testing
