@@ -26,7 +26,7 @@ pip install scikit-learn
 ```
 b. Open a terminal in "RAG-VR" folder, Run:
 ```
-./dataset-based evaluation/train.py
+python ./dataset-based evaluation/train.py
 ```
 
 ### Testing
@@ -37,7 +37,7 @@ ollama run llama3.1:8b
 
 d. Open a terminal in "RAG-VR" folder, Run:
 ```
-./dataset-based evaluation/test.py
+python ./dataset-based evaluation/test.py
 ```
 
 ## Implementation of Real-world Testing
