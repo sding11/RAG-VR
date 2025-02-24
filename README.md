@@ -24,7 +24,10 @@ pip install pandas --upgrade
 pip install openpyxl --upgrade
 pip install scikit-learn
 ```
-b. Open a terminal in "RAG-VR" folder, Run "./dataset-based evaluation/train.py".
+b. Open a terminal in "RAG-VR" folder, Run:
+```
+./dataset-based evaluation/train.py
+```
 
 ### Testing
 c. Download Ollama from https://ollama.com/. Then run the following commands to download the LLM (llama3.1:8b).
@@ -32,8 +35,10 @@ c. Download Ollama from https://ollama.com/. Then run the following commands to 
 ollama run llama3.1:8b
 ```
 
-d. Open a terminal in "RAG-VR" folder, Run "./dataset-based evaluation/test.py".
-
+d. Open a terminal in "RAG-VR" folder, Run:
+```
+./dataset-based evaluation/test.py
+```
 
 ## Implementation of Real-world Testing
 ### Unity Setup
