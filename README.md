@@ -11,6 +11,7 @@ This repository code implements the functionality of the RAG-VR system.
 * Edge server GPU: NVIDIA RTX 2000 Ada
 * Unity editor version: 2022.3.52f1
 * LLM:llama3.1:8b
+* Pytorch version: 2.5.1
 
 ## Implementation of Dataset-based Evaluation
 ### Training
