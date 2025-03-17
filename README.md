@@ -1,5 +1,7 @@
 This repository code implements the functionality of the RAG-VR system.
-# Outline
+# RAG-VR
+This repository accompanies the workshop paper "RAG-VR: Leveraging Retrieval-Augmented Generation for 3D Question Answering in VR Environments", to appear at GenAI-XR 2025. 
+## Outline
 <p align="center">
   <img src="https://raw.githubusercontent.com/sding11/RAG-VR/refs/heads/main/User.png" width="25%">
   <img src="https://raw.githubusercontent.com/sding11/RAG-VR/refs/heads/main/Server.png" width="25%">
@@ -68,6 +70,8 @@ j. Disconnect the Meta Quest 3 from the computer. After setting up a new Guardia
 k. Click the button on the UI interface according to the prompt to start and end the query.
 
 ## Citation
+
+If you want to use RAG-VR in an academic work, please cite:
 ```
 @inproceedings{RAGVR,
   title={{RAG-VR}: Leveraging Retrieval-Augmented Generation for {3D} Question Answering in {VR} Environments},
@@ -75,4 +79,12 @@ k. Click the button on the UI interface according to the prompt to start and end
   booktitle={Proceedings of IEEE VR GenAI-XR},
   year={2025}
  }
+
 ```
+
+## Acknowledgments
+The authors of this repository are Shiyi Ding and Ying Chen. Contact information is as follows:
+* [Shiyi Ding](https://www.linkedin.com/in/shiyi-ding-120900325/) (sding1@students.kennesaw.edu)
+* [Ying Chen](https://sites.duke.edu/marialabyingchen/) (ychen62@kennesaw.edu)
+
+
