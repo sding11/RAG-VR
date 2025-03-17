@@ -66,3 +66,13 @@ i. Load the code in the "server" folder on the local server. Select the system y
 j. Disconnect the Meta Quest 3 from the computer. After setting up a new Guardian Boundary, the virtual reality game with RAG-VR will be automatically loaded.
 
 k. Click the button on the UI interface according to the prompt to start and end the query.
+
+## Citation
+```
+@inproceedings{RAGVR,
+  title={{RAG-VR}: Leveraging Retrieval-Augmented Generation for {3D} Question Answering in {VR} Environments},
+  author={Ding, Shiyi, and Chen, Ying},
+  booktitle={Proceedings of IEEE VR GenAI-XR},
+  year={2025}
+ }
+```
