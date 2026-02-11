@@ -1,5 +1,5 @@
 # RAG-VR
-This repository accompanies the workshop paper "RAG-VR: Leveraging Retrieval-Augmented Generation for 3D Question Answering in VR Environments", to appear at GenAI-XR 2025. This repository code implements the functionality of the RAG-VR system. RAG-VR is the first 3D question-answering system for VR that enhances answer accuracy and efficiency by integrating retrieval-augmented generation (RAG) with a localized knowledge database and a trained retriever optimized to distinguish relevant information.
+This repository accompanies the workshop paper "RAG-VR: Leveraging Retrieval-Augmented Generation for 3D Question Answering in VR Environments" at GenAI-XR 2025. This repository code implements the functionality of the RAG-VR system. RAG-VR is the first 3D question-answering system for VR that enhances answer accuracy and efficiency by integrating retrieval-augmented generation (RAG) with a localized knowledge database and a trained retriever optimized to distinguish relevant information.
 ## Outline
 <p align="center">
   <img src="https://raw.githubusercontent.com/sding11/RAG-VR/refs/heads/main/User.png" width="25%">
