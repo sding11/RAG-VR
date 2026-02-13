@@ -75,7 +75,7 @@ If you want to use RAG-VR in an academic work, please cite:
 @inproceedings{RAGVR,
   title={{RAG-VR}: Leveraging Retrieval-Augmented Generation for {3D} Question Answering in {VR} Environments},
   author={Ding, Shiyi, and Chen, Ying},
-  booktitle={Proceedings of IEEE VR GenAI-XR},
+  booktitle={Proceedings of IEEE VRW},
   year={2025}
  }
 ```
@@ -83,6 +83,6 @@ If you want to use RAG-VR in an academic work, please cite:
 ## Acknowledgments
 The authors of this repository are Shiyi Ding and Ying Chen. Contact information is as follows:
 * [Shiyi Ding](https://www.linkedin.com/in/shiyi-ding-120900325/) (sding1@students.kennesaw.edu)
-* [Ying Chen](https://sites.duke.edu/marialabyingchen/) (ychen62@kennesaw.edu)
+* [Ying Chen](https://yingchen115.github.io/bio/) (yingchen@psu.edu)
 
 
